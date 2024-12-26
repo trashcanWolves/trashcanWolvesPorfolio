@@ -35,46 +35,52 @@ B. A. S. Information System Technology Eastern Florida State College
  - 
 School Theatre Department
 
+## IT
+
+ - Working with Oracle SQL and Databases
+ - Can Write in C++, Java, HTML+CSS+Javascript
+ - Proficient in Microsoft Office
+ - System Admin Experience
+
 ## Special Skills
 
-- Video Editing
-- Videography
-- Photography
-- Working with Databases
-- Proficient in Microsoft Office Suite of Software
+ - Video Editing
+ - Videography
+ - Photography
+ - Working with Databases
+ - Proficient in Microsoft Office Suite of Software
 
 # Requirements
 
-1.	 A Splash Page that Showcases work that you particularly want to spotlight
-2.	 A Section For Sound Design Work
-3.	 Either Brand Logo Or A Portfolio Piece on the Main Page
-4.	 No Broken Links
-5.	 Your Resume on It
-6.	 A Section for your Sound Design Portfolio
-7.	 A Section for Acting Portfolio
-8.	 A Section for your Video Production Portfolio
-9.	 A Section for your Information Technology Portfolio
-10.	 A Section for Extras which showcase your Lighting, Directing, & and Playwrighting Portfolio
-11.	 an About Me Section
-12.	 list all shows it presents on Website With Production Team Credits
-13.	 production photos to go along with the productions whenever possible
-14.	 A Link Back to the Homepage and a Link Pack to the Previous Page of the Website Present on Each Page
+1. A Splash Page that Showcases work that you particularly want to spotlight
+2. A Section For Sound Design Work
+3. Either Brand Logo Or A Portfolio Piece on the Main Page
+4. No Broken Links
+5. Your Resume on It
+6. A Section for your Sound Design Portfolio
+7. A Section for Acting Portfolio
+8. A Section for your Video Production Portfolio
+9. A Section for your Information Technology Portfolio
+10. A Section for Extras which showcase your Lighting, Directing, & and Playwrighting Portfolio
+11. an About Me Section
+12. list all shows it presents on Website With Production Team Credits
+13. production photos to go along with the productions whenever possible
+14. A Link Back to the Homepage and a Link Pack to the Previous Page of the Website Present on Each Page
 15.	The Website’s Pictures Shall Be Able To Be Enlarged By Clicking On Them
 
-16.	 A Vanity URL
+16. A Vanity URL
         What URL do you want. 
 - Acting Resume Available Upon Request
 
-___
 
-**Page Heading**
-1)  Picture=Home
-2)  About; takedown as note get back together tomrow to talk about
-3)  Resume; with resume downloadable as word document
-4)  Sound
-5)  Video
-6)  Acting
-7)  Information Technology
-8)  Directing
-9)  Playwrighting
-10) Lighting
+## Page Headings
+1. Picture=Home
+2. About; takedown as note get back together tomrow to talk about
+3. Resume; with resume downloadable as word document
+4. Sound
+5. Video
+6. Acting
+7. Information Technology
+8. Directing
+9. Playwrighting
+10. Lighting
