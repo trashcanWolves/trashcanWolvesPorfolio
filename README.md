@@ -6,21 +6,21 @@ Sound Design Resume
 ## Education
 B. F. A. Design/Technology University of West Florida
 
-BAS Information System Technology Eastern Florida State College
+B. A. S. Information System Technology Eastern Florida State College
 
-## Sound Design
+## Tech Theatre
  - A Scar Is Born Sound Designer/Publicity Fringe Festivals Internationally (Started Orlando Fringe Festival)
  - Akeelah and the Bee Sound Designer University of West Florida
  - You’re a Good Man, Charlie Brown Assistant Sound Mixer University of West Florida
  - Princess and the Pea Sound Designer/Lighting Designer/Sound Board Op Eastern Florida State College
- - From Tom to Tennessee A Series of 8 Selected One Acts by Tennessee Williams Sound Designer all 8 plays/Lighting Board Op 4 out of 8 plays Easten Florida State College
+ - From Tom to Tennessee A Series of 8 Selected One Acts by Tennessee Williams Sound Designer all 8 plays/Lighting Board Op 4 out of 8 plays Eastern Florida State College
  - The Tempest Sound Designer Eastern Florida State College
  - Ah, Wilderness Sound Designer Easter Florida State College
  - Lifespan of A Fact Sound Designer/Sound Board Op Eastern Florida State College
  - A Dream Play Sound Designer Eastern Florida State College
  - The Real Inspector Hound Sound Designer Eastern Florida State College
  - Publicity Manager of Video Material 2018-2019 &amp; 2019-2020 School Year Viera High
- 
+
 ## Acting
 
  - Mister Paradise Girl Eastern 
@@ -28,7 +28,7 @@ BAS Information System Technology Eastern Florida State College
  - The Tempest Ceres/Ensemble Eastern Florida State College
  - Ah, Wilderness Tommy Miller Eastern Florida State College
  - A Dream Play Billstick/Rich Fat Sick/Maid/Building Worker 2/Barrister Eastern Florida State College
- - The Real Inspector Hound Higgs Easten Florida State College
+ - The Real Inspector Hound Higgs Eastern Florida State College
  - War of the Worlds Announcer 3/Policeman/Captain Lansing/Operator 4 Eastern Florida State College
  - The Brothers Grimm Spectaculathon Snow White’s Prince Viera High School
  - We Will Rock You Named Bohemian Viera High School
@@ -64,3 +64,17 @@ School Theatre Department
 16.	 A Vanity URL
         What URL do you want. 
 - Acting Resume Available Upon Request
+
+___
+
+**Page Heading**
+1)  Picture=Home
+2)  About; takedown as note get back together tomrow to talk about
+3)  Resume; with resume downloadable as word document
+4)  Sound
+5)  Video
+6)  Acting
+7)  Information Technology
+8)  Directing
+9)  Playwrighting
+10) Lighting
