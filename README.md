@@ -73,7 +73,7 @@ School Theatre Department
 - Acting Resume Available Upon Request
 
 
-## Page Headings
+## Page Headings (Within Sound & Acting Subpages for Specfic Productions)
 1. Picture=Home
 2. About; takedown as note get back together tomrow to talk about
 3. Resume; with resume downloadable as word document
