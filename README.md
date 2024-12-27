@@ -73,13 +73,17 @@ School Theatre Department
 - Acting Resume Available Upon Request
 
 
-## Page Headings (Within Sound & Acting Subpages for Specfic Productions)
+## Page Headings (Within Sound & Acting Subpages for Specific Productions)
 1. Picture=Home
-2. About; takedown as note get back together tomrow to talk about
+2. About; takedown as note get back together tomorrow to talk about
 3. Resume; with resume downloadable as word document
 4. Sound
 5. Video
 6. Acting
+   1. From Tom To Tennessee
+   2. The Tempest
+   3. Ah, Wilderness
+   4. A Dream Play
 7. Information Technology
 8. Directing
 9. Playwrighting
