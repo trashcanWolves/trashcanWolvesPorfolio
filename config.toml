@@ -18,7 +18,7 @@ showContact = true
 showBoards  = true
 showCertifications = true
 showSocializations = true
-sections = ["about","resume","design","acting","experience","video production","information technology","directing","playwrighting"]
+sections = ["resume","design","acting","experience","video production","information technology","directing","playwrighting"]
 
 
 [params.google]

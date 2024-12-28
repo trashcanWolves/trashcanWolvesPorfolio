@@ -9,4 +9,11 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+(All Pronouns)
+
+```HTML
+<h2>Education</h2>
+<p>B. F. A. Design/Technology University of West Florida</p>
+<p>B. A. S. Information System Technology Eastern Florida State College</p>
+
+```
