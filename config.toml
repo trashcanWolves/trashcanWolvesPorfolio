@@ -15,8 +15,8 @@ lastName = "Kearns"
 profileImage = "wolves_logo.png"
 showQr = false
 showContact = true
-showBoards  = true
-showCertifications = true
+showBoards  = false
+showCertifications = false
 showSocializations = true
 sections = ["resume","design","acting","experience","video","it","directing","playwrighting"]
 
