@@ -2,12 +2,18 @@
 title: actor
 ---
 
-[play one](./play_one) 
+[We Will Rock You](./WeWillRockYou)
 
+[The Brothers Grimn Spectacularathon](./TheBrothersGimmn)
 
+[War Of The Worlds](./WarOfTheWords)
 
-play two
+[The Real Inspector Hound](./TheRealInspectorHound)
 
-play three
+[A Dream Play](./ADreamPlay)
 
-play four
+[Ah, Wilderness](./AhWilderness)
+
+[The Tempest](./TheTempest)
+
+[Mister Paradise](./MisterParadise)
