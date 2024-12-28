@@ -101,7 +101,7 @@ School Theatre Department
 
 ## Wolves todo
 
-Send Scott portfolio site example.
+Send Scott portfolio site example. (Wolves Has Sent Over)
 
 sign up for https://ahrefs.com/ free plan; Wolves has Signed Up For Account; Though Wolves Does Not Know What to do with account after that point
 
@@ -119,3 +119,4 @@ sign up for https://ahrefs.com/ free plan; Wolves has Signed Up For Account; Tho
 * Question about if I should keep certification section. While the icons for the certifications in question themselves definitely should be removed. I have question if I should keep the header itself even know it will be empty for the time being as I am currently starting to prep for certification exams myself so it could prove to be a helpful section sometime in the future? Or should it just be added back in at the time it becomes relevant to keep the website look in question cleaner for the time being.
 * Boards and Volunteering can be changed  to just Volunteering. And Volunteering can just be text instead of Icons. And Can Just say Gender Fed/Meowster's Clowder December 2023-Present
 * Clicked On Skills Link Broke 
+* Additional Note Somewhere on the website there should be a credit to Fox or DivineVulpes for the Brand Logo
