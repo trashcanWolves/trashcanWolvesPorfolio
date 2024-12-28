@@ -115,7 +115,6 @@ sign up for https://ahrefs.com/ free plan; Wolves has Signed Up For Account; Tho
   * Creations is formatted similar to open source contributor section so much of my notes there carry over here. Just with the added not that there does not need to be a creations section itself.
   * Same with Publications
 * Entire Blog Section of Webpage Can Just Go Away
-* Clicked on Contact Link Broken
 * Question about if I should keep certification section. While the icons for the certifications in question themselves definitely should be removed. I have question if I should keep the header itself even know it will be empty for the time being as I am currently starting to prep for certification exams myself so it could prove to be a helpful section sometime in the future? Or should it just be added back in at the time it becomes relevant to keep the website look in question cleaner for the time being.
 * Boards and Volunteering can be changed  to just Volunteering. And Volunteering can just be text instead of Icons. And Can Just say Gender Fed/Meowster's Clowder December 2023-Present
 * Clicked On Skills Link Broke 

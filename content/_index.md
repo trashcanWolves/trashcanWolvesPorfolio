@@ -11,9 +11,9 @@ outputs:
 ---
 (All Pronouns)
 
-```HTML
-<h2>Education</h2>
-<p>B. F. A. Design/Technology University of West Florida</p>
-<p>B. A. S. Information System Technology Eastern Florida State College</p>
+## Education
 
-```
+B. F. A. Design/Technology University of West Florida
+
+B. A. S. Information System Technology Eastern Florida State College
+
