@@ -77,17 +77,26 @@ School Theatre Department
 1. Picture=Home
 2. About; takedown as note get back together tomorrow to talk about
 3. Resume; with resume downloadable as word document
-4. Sound
-5. Video
-6. Acting
+4. Design (This can maybe go where Publications Section Was Originally)
+   1. Akeelah and The Bee
+   2. Princess & The Bee
+   3. From Tom To Tennessee
+   4. The Tempest
+   5. Ah, Wilderness
+   6. Lifespan of A Fact
+   7. A Scar is Born
+   8. A Dream Play
+   9. The Real Inspector Hound
+
+5. Acting (This can maybe go where Creations Section was Originally)
    1. From Tom To Tennessee
    2. The Tempest
    3. Ah, Wilderness
    4. A Dream Play
+6. Video
 7. Information Technology
 8. Directing
 9. Playwrighting
-10. Lighting
 
 
 ## Wolves todo
@@ -109,4 +118,4 @@ sign up for https://ahrefs.com/ free plan; Wolves has Signed Up For Account; Tho
 * Clicked on Contact Link Broken
 * Question about if I should keep certification section. While the icons for the certifications in question themselves definitely should be removed. I have question if I should keep the header itself even know it will be empty for the time being as I am currently starting to prep for certification exams myself so it could prove to be a helpful section sometime in the future? Or should it just be added back in at the time it becomes relevant to keep the website look in question cleaner for the time being.
 * Boards and Volunteering can be changed  to just Volunteering. And Volunteering can just be text instead of Icons. And Can Just say Gender Fed/Meowster's Clowder December 2023-Present
-
+* Clicked On Skills Link Broke 
