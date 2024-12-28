@@ -30,7 +30,7 @@
 
 <p> Orlando Shakespeare Center Fringe Festival and Other Fringe Festivals Internationally<br>
     Director, Playwright, Producer: Lorelei Zarifian <br>
-    Sound Designer: Two Kearns <br>
+    Sound Designer: Two Kearns (credited under name Violet) <br>
     Lighting Designer: Alexandria Baker <br>
 </p>
 
