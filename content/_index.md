@@ -11,6 +11,7 @@ outputs:
 ---
 (All Pronouns)
 
+[Resume](/resume.pdf)
 ## Education
 
 B. F. A. Design/Technology University of West Florida
