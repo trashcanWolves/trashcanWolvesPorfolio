@@ -28,7 +28,11 @@
 
 <h1>A Scar is Born</h1>
 
-<p>Orlando Shakespeare Center Fringe Festival & Other Fringe Festivals Internationally</p>
+<p> Orlando Shakespeare Center Fringe Festival and Other Fringe Festivals Internationally<br>
+    Director, Playwright, Producer: Lorelei Zarifian <br>
+    Sound Designer: Two Kearns <br>
+    Lighting Designer: Alexandria Baker <br>
+</p>
 
 <h1>Life Span of A Fact </h1>
 
@@ -44,8 +48,15 @@
 
 <h1> Ah, Wilderness</h1>
 
-<p>Eastern Florida Stage College Studio Theatre
-    
+<p> Eastern Florida Stage College Studio Theatre<br>
+    Director: Selena Ambush<br>
+    Technical Director: Paul McKee<br>
+    Stage Manager and Properties Designer: Grace Ferguson<br>
+    Sound Designer: Two Kearns<br>
+    Set Designer: Lilly Hastings<br>
+    Lighting Designer: Davis Vande Stegg<br>
+    Costume: Zoie Bethel, Selena Ambush<br>
+    Dramaturg: Alyssa Barrack<br>
 </p>
 
 
@@ -102,5 +113,17 @@
 
 
 
-​    
+
+
+
+
+<h1>Directing Stuff</h1>
+
+<p> -Scene from *Laughing Wild* Spring 2024 Eastern Florida State College Directing 1 Showcase<br> 
+    -Scene from *The Veil of Ignorance* Spring 2024 Eastern Florida State College Performing Arts Showcase<br>
+    -20 minute Cut of *Tavern Inn* Spring 2023 Eastern Florida State College Student Written Play Showcase<br>
+     -Scene from the *The Play that Goes Wrong* Viera Highschool Fall Coffee House & Florida Thespians Festival <br>
+</p>
+
+
 
