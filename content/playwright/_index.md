@@ -1,5 +1,5 @@
 ---
-title: actor
+title: Playwright
 ---
 
 [We Will Rock You](./WeWillRockYou)
