@@ -17,3 +17,7 @@ outputs:
 B. F. A. Design/Technology University of West Florida
 
 B. A. S. Information System Technology Eastern Florida State College
+
+### Volunteering
+
+Gender Fed/Meowster's Clowder December 2023-Present
