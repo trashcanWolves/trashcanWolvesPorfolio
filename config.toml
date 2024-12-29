@@ -1,5 +1,5 @@
 title = "Two Kearns Portfolio"
-baseURL = "https://twokearns.netlify.app/"
+baseURL = "https://twokearns.com"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

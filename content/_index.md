@@ -11,10 +11,9 @@ outputs:
 ---
 (All Pronouns)
 
-[Resume](/resume.pdf)
+[Resume](/two_kearns_resume.pdf)
 ## Education
 
 B. F. A. Design/Technology University of West Florida
 
 B. A. S. Information System Technology Eastern Florida State College
-

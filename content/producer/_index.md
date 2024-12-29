@@ -1,12 +1,12 @@
 ---
-title: actor
+title: Producer
 ---
 
 [We Will Rock You](./WeWillRockYou)
 
 [The Brothers Grimn Spectacularathon](./TheBrothersGimmn)
 
-[War Of The Worlds](./WarOfTheWorlds)
+[War Of The Worlds](./WarOfTheWords)
 
 [The Real Inspector Hound](./TheRealInspectorHound)
 
@@ -17,7 +17,3 @@ title: actor
 [The Tempest](./TheTempest)
 
 [Mister Paradise](./MisterParadise)
-
-
-
-School Theatre Department
