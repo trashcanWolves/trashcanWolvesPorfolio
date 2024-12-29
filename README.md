@@ -94,4 +94,6 @@ B. A. S. Information System Technology Eastern Florida State College
 ## Scott Todo
 
 - https://ahrefs.com/  review how to use tool to check for broken links and optimize in google search results
+- google search console
+- https://pragprog.com/titles/bhhugo/build-websites-with-hugo/
 
