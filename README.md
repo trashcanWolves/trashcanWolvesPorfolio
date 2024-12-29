@@ -88,21 +88,10 @@ B. A. S. Information System Technology Eastern Florida State College
 ## Wolves todo
 
 
-sign up for free plan; Wolves has Signed Up For Account; Though Wolves Does Not Know What to do with account after that point
-
+- credit to Fox or DivineVulpes for the Brand Logo
+    - Where should this go
+    
 ## Scott Todo
 
 - https://ahrefs.com/  review how to use tool to check for broken links and optimize in google search results
 
-
-## Extensive Site Notes
-
----
-
-* While We Do Not Need An Open Source Contributions Section Itself; The Functionality of the section itself is what I am looking for. In being able to click on a title itself and be taken to a sub page. In clicking on a title of play and being able to be taken to a subpage with portfolio pieces on that plays productions. And then the tag or keywords that are under each article can possible correspond to positions we held within the given production such as sound designer, actor, publicity manager, ex...
-  * Creations is formatted similar to open source contributor section so much of my notes there carry over here. Just with the added not that there does not need to be a creations section itself.
-  * Same with Publications
-* Entire Blog Section of Webpage Can Just Go Away
-* Question about if I should keep certification section. While the icons for the certifications in question themselves definitely should be removed. I have question if I should keep the header itself even know it will be empty for the time being as I am currently starting to prep for certification exams myself so it could prove to be a helpful section sometime in the future? Or should it just be added back in at the time it becomes relevant to keep the website look in question cleaner for the time being.
-* Clicked On Skills Link Broke 
-* Additional Note Somewhere on the website there should be a credit to Fox or DivineVulpes for the Brand Logo
