@@ -125,5 +125,16 @@
      -Scene from the *The Play that Goes Wrong* Viera Highschool Fall Coffee House & Florida Thespians Festival <br>
 </p>
 
+<h1>Actor Role Content</h1>
+
+<p> -We Will Rock You: Named Bohemian listed as Quatro in Original Script <br>
+    -The Brothers Grimm Spectaculathon: Snow White's Price <br>
+    -The Real Inspector Hound: Puckridge Female Version <br>
+    -A Dream Play: Billstick, Rich Fat Sick, Maid, Building Worker 2, Barrister <br>
+    -Ah, Wilderness: Tommy Miller <br>
+    -The Tempest: Ceres, Ensemble <br>
+    -Mister Paradise: Girl <br>
+</p>
+
 
 

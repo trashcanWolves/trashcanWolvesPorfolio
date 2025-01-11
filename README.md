@@ -63,7 +63,7 @@ B. A. S. Information System Technology Eastern Florida State College
 1. Picture=Home
 2. About; takedown as note get back together tomorrow to talk about
 3. Resume; with resume downloadable as word document
-4. Design (This can maybe go where Publications Section Was Originally)
+4. Design (This can maybe go where Publications Section Was Originally) (Text Content Gathered)
    1. Akeelah and The Bee
    2. Princess & The Bee
    3. From Tom To Tennessee
@@ -79,10 +79,10 @@ B. A. S. Information System Technology Eastern Florida State College
    2. The Tempest
    3. Ah, Wilderness
    4. A Dream Play
-6. Video
-7. Information Technology
-8. Directing
-9. Playwrighting
+6. Video (Text Content Gathered(
+7. Information Technology (Text Content Gathered(
+8. Directing (Text Content Gathered)
+9. Playwrighting (This page has no text content so text content done)
 
 
 ## Wolves todo
