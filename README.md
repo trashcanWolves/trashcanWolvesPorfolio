@@ -64,21 +64,20 @@ B. A. S. Information System Technology Eastern Florida State College
 2. About; takedown as note get back together tomorrow to talk about
 3. Resume; with resume downloadable as word document
 4. Design (This can maybe go where Publications Section Was Originally) (Text Content Gathered)
-   1. Akeelah and The Bee
-   2. Princess & The Bee
-   3. From Tom To Tennessee
-   4. The Tempest
-   5. Ah, Wilderness
-   6. Lifespan of A Fact
-   7. A Scar is Born
-   8. A Dream Play
-   9. The Real Inspector Hound
+   1. Akeelah and The Bee Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   2. Princess & The Bee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   3. From Tom To Tennessee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   4. The Tempest  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   5. Ah, Wilderness  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   6. Lifespan of A Fact  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   7. A Scar is Born  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   8. A Dream Play  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   9. The Real Inspector Hound  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
 
 5. Acting (This can maybe go where Creations Section was Originally) (Text Content Gathered)
-   1. From Tom To Tennessee
-   2. The Tempest
-   3. Ah, Wilderness
-   4. A Dream Play
+   1. The Brothers Grimm Spectaculathon Is there a Photo: Are there Section Photos:
+   2. War of the Worlds Is there a Photo: Are there Section Photos:
+   3. We Will Rock You Is there a Photo: Are there Section Photos:
 6. Video (Text Content Gathered)
 7. Information Technology (Text Content Gathered)
 8. Directing (Text Content Gathered)
