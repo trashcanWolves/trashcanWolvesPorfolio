@@ -74,13 +74,13 @@ B. A. S. Information System Technology Eastern Florida State College
    8. A Dream Play
    9. The Real Inspector Hound
 
-5. Acting (This can maybe go where Creations Section was Originally)
+5. Acting (This can maybe go where Creations Section was Originally) (Text Content Gathered)
    1. From Tom To Tennessee
    2. The Tempest
    3. Ah, Wilderness
    4. A Dream Play
-6. Video (Text Content Gathered(
-7. Information Technology (Text Content Gathered(
+6. Video (Text Content Gathered)
+7. Information Technology (Text Content Gathered)
 8. Directing (Text Content Gathered)
 9. Playwrighting (This page has no text content so text content done)
 
