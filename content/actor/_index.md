@@ -20,4 +20,3 @@ title: Actor
 
 
 
-School Theatre Department

@@ -102,3 +102,7 @@ B. A. S. Information System Technology Eastern Florida State College
 - Format the Cue sheet for The Real Inspector Hound needs to be to work on the website, Same note Applies to Cue Sheet for A Scar is Born
 - What to do about not being able to find any content to put on The Brothers Grimn Spectaculathon Page
 
+
+## Questions
+
+-Can I just remove the irrelevant subsections in director, producer, ex and just put the actual relevant text and files there or do the files that are there need to remain there in order to keep code working
