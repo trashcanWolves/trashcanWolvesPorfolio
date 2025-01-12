@@ -65,7 +65,7 @@ B. A. S. Information System Technology Eastern Florida State College
 3. Resume; with resume downloadable as word document
 4. Design (This can maybe go where Publications Section Was Originally) (Text Content Gathered)
    1. Akeelah and The Bee Is there a Photo: Yes Is there Section Photos: There are no section photos for Akeelah and the Bee Is there a Cue Sheet: Yes Is there Sound Samples:
-   2. Princess & The Bee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   2. Princess & The Bee Done  Is there a Photo: Yes Is there Section Photos: Yes Is there a Cue Sheet: Yes there is a cue sheet for lighting a sound cue might be added in the future if that matter is ever sorted Is there Sound Samples: Yes
    3. From Tom To Tennessee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    4. The Tempest Done  Is there a Photo: Yes Is there Section Photos:Yes Is there a Cue Sheet: Yes Is there Sound Samples: Yes
    5. Ah, Wilderness Done as far as it can be done for time being  Is there a Photo: Main Section Photos acquired. For this show the main section photo for acting and sound design page is different. Is there Section Photos: Yes Is there a Cue Sheet: Yes Is there Sound Samples: For the time being there will be no sound samples for Ah Wilderness. If you ever find the sound samples for ah wilderness sometime in the future update this section.
@@ -76,12 +76,12 @@ B. A. S. Information System Technology Eastern Florida State College
 
 5. Acting (This can maybe go where Creations Section was Originally) (Text Content Gathered)
    1. The Brothers Grimm Spectaculathon Is there a Photo: Are there Section Photos:
-   2. War of the Worlds Is there a Photo: Are there Section Photos:
-   3. We Will Rock You Is there a Photo: Are there Section Photos:
-6. Video (Text Content Gathered)
-7. Information Technology (Text Content Gathered)
-8. Directing (Text Content Gathered)
-9. Playwrighting (This page has no text content so text content done)
+   2. War of the Worlds Is there a Photo: Yes Are there Section Photos: There are no section photos for War of the Worlds
+   3. We Will Rock You Is there a Photo: Yes Are there Section Photos: No there is not any section photos right now there many be some if we can sort things out with social media but I am not sure if that is even possible.
+6. Video (Text Content Gathered) Content Sorted
+7. Information Technology (Text Content Gathered) Content Sorted
+8. Directing (Text Content Gathered) Content Sorted
+9. Playwrighting (This page has no text content so text content done) Content Sorted
 
 
 ## Wolves todo
@@ -100,4 +100,5 @@ B. A. S. Information System Technology Eastern Florida State College
 ## Notes
 
 - Format the Cue sheet for The Real Inspector Hound needs to be to work on the website, Same note Applies to Cue Sheet for A Scar is Born
+- What to do about not being able to find any content to put on The Brothers Grimn Spectaculathon Page
 
