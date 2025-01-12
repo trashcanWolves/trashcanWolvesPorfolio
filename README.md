@@ -67,12 +67,12 @@ B. A. S. Information System Technology Eastern Florida State College
    1. Akeelah and The Bee Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    2. Princess & The Bee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    3. From Tom To Tennessee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
-   4. The Tempest  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   4. The Tempest Done  Is there a Photo: Yes Is there Section Photos:Yes Is there a Cue Sheet: Yes Is there Sound Samples: Yes
    5. Ah, Wilderness  Is there a Photo: Main Section Photos acquired. For this show the main section photo for acting and sound design page is different. Is there Section Photos: Yes Is there a Cue Sheet: Yes Is there Sound Samples:
    6. Lifespan of A Fact  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
-   7. A Scar is Born  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   7. A Scar is Born Partial Done  Is there a Photo: Yes Is there Section Photos: Yes Is there a Cue Sheet: Yes Is there Sound Samples: Yes
    8. A Dream Play Done  Is there a Photo: Yes Is there Section Photos: Yes only on acting version Is there a Cue Sheet: Yes Is there Sound Samples: There will be no sound samples for this show. 
-   9. The Real Inspector Hound  Is there a Photo: Is there Section Photos: There will be no Section Photos for this show Is there a Cue Sheet: Is there Sound Samples: There will be no sound samples for this show
+   9. The Real Inspector Hound  Is there a Photo: Is there Section Photos: There will be no Section Photos for this show Is there a Cue Sheet: Yes Is there Sound Samples: There will be no sound samples for this show at least as of the current moment this could change in future if I found the radio recording voice overs that were used in this show. There is not much sound samples to pull from for this show since much of the sound design for this was practical, maybe that should be noted somewhere on the cue sheet for the show. Or within the concept statement of text information for the given show
 
 5. Acting (This can maybe go where Creations Section was Originally) (Text Content Gathered)
    1. The Brothers Grimm Spectaculathon Is there a Photo: Are there Section Photos:
@@ -95,4 +95,9 @@ B. A. S. Information System Technology Eastern Florida State College
 - https://ahrefs.com/  review how to use tool to check for broken links and optimize in google search results
 - google search console
 - https://pragprog.com/titles/bhhugo/build-websites-with-hugo/
+
+
+## Notes
+
+- Format the Cue sheet for The Real Inspector Hound needs to be to work on the website, Same note Applies to Cue Sheet for A Scar is Born
 
