@@ -68,11 +68,11 @@ B. A. S. Information System Technology Eastern Florida State College
    2. Princess & The Bee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    3. From Tom To Tennessee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    4. The Tempest  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
-   5. Ah, Wilderness  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   5. Ah, Wilderness  Is there a Photo: Main Section Photos acquired. For this show the main section photo for acting and sound design page is different. Is there Section Photos: Yes Is there a Cue Sheet: Yes Is there Sound Samples:
    6. Lifespan of A Fact  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    7. A Scar is Born  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
-   8. A Dream Play  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
-   9. The Real Inspector Hound  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   8. A Dream Play Done  Is there a Photo: Yes Is there Section Photos: Yes only on acting version Is there a Cue Sheet: Yes Is there Sound Samples: There will be no sound samples for this show. 
+   9. The Real Inspector Hound  Is there a Photo: Is there Section Photos: There will be no Section Photos for this show Is there a Cue Sheet: Is there Sound Samples: There will be no sound samples for this show
 
 5. Acting (This can maybe go where Creations Section was Originally) (Text Content Gathered)
    1. The Brothers Grimm Spectaculathon Is there a Photo: Are there Section Photos:
