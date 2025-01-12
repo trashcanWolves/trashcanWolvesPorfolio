@@ -13,7 +13,7 @@ The Lifespan Of A Fact is the capturing of the unseen moment of a suicide the oc
 Ah, Wilderness is a look back at the year 1906 and the lives of the Miller Family during a Forth of July Holiday.
 
 
-Tempest is a journey through the sounds of the Florida everglades and beach's. And features the magic of one a spirt named Ariel characterized through the music of Philip Glass.
+The Tempest is a journey through the sounds of the Florida everglades and beach's. And features the magic of one a spirt named Ariel characterized through the music of Philip Glass.
 
 
 From Tom To Tennessee is a tour through the sounds of a 1930s New Orleans as we take a look into society in this time at large and the inside lives of the characters including the part of the character’s inner sound scapes that they might not even share with those around them.
