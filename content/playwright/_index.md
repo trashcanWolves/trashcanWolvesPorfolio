@@ -2,18 +2,6 @@
 title: Playwright
 ---
 
-[We Will Rock You](./WeWillRockYou)
+Tavern Inn
 
-[The Brothers Grimn Spectacularathon](./TheBrothersGimmn)
-
-[War Of The Worlds](./WarOfTheWords)
-
-[The Real Inspector Hound](./TheRealInspectorHound)
-
-[A Dream Play](./ADreamPlay)
-
-[Ah, Wilderness](./AhWilderness)
-
-[The Tempest](./TheTempest)
-
-[Mister Paradise](./MisterParadise)
+<a href="https://docs.google.com/document/d/1QM47ADDQUXoIrbCraVwv1GzrOS-3sFUs/edit?usp=sharing&ouid=110284567691445362729&rtpof=true&sd=true">Tavern Inn Play Script</a>
