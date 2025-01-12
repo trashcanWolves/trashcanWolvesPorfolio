@@ -64,7 +64,7 @@ B. A. S. Information System Technology Eastern Florida State College
 2. About; takedown as note get back together tomorrow to talk about
 3. Resume; with resume downloadable as word document
 4. Design (This can maybe go where Publications Section Was Originally) (Text Content Gathered)
-   1. Akeelah and The Bee Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
+   1. Akeelah and The Bee Is there a Photo: Yes Is there Section Photos: There are no section photos for Akeelah and the Bee Is there a Cue Sheet: Yes Is there Sound Samples:
    2. Princess & The Bee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    3. From Tom To Tennessee  Is there a Photo: Is there Section Photos: Is there a Cue Sheet: Is there Sound Samples:
    4. The Tempest Done  Is there a Photo: Yes Is there Section Photos:Yes Is there a Cue Sheet: Yes Is there Sound Samples: Yes
