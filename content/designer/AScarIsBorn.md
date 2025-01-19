@@ -3,8 +3,11 @@ title: A Scar Is Born
 image: /img/wewillrockyou.jpg
 layout: section
 ---
+![scar_born.jpg](/scar_born.jpg)
 
 A Scar Is Born is a journey from the sounds of a crowded audition room, to poetry told to us to music, to the sounds of political uprising and so much more as we follow one actor from France as they tell us their life story.
+
+![scar_born_speaker_chart.png](/scar_born_speaker_chart.png)
 
 <p>
 Orlando Fringe 	May of 2022 <br>
@@ -36,3 +39,20 @@ Claphan Fringe September 2023 <br>
 Leicester Comedy Festival February 2024 <br>
 
 </p>
+
+| Cue       | Cue In                   | Cue Out                            | Notes                                                                                                   |
+| --------- | ------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Pre-Show  | N/A                      | N/A                                |                                                                                                         |
+| Sound 40  | Top of Show              | N/A                                |                                                                                                         |
+| Sound 41  | Bow in front of audience | N/A                                |                                                                                                         |
+| Sound 50  | "Candle Stick"           | N/A                                |                                                                                                         |
+| Sound 70  | "Word addict"            | N/A                                |                                                                                                         |
+| Sound 90  | "Madam Pipi"             | N/A                                |                                                                                                         |
+| Sound 110 | "on 5th Avenue"          | "We'll always have Paris"/fade out |                                                                                                         |
+| Sound 130 | "but f...off"            | "Ladies and Gentlemen"/fadeout     |                                                                                                         |
+| Sound 130 | "run it over"            | Actor exits(crossfade into 131)    | Volume level sould increase when Mr. Wiwi goes to hand out business cards                               |
+| Sound 131 | Actor exits              | Actor enters(crossfade into 132)   |                                                                                                         |
+| Sound 132 | Actor enters             | Actor exits(crossfade into 140)    | Volume level down to undercore on:"the French Stereotype"; Volume Level Up to Full on "become chemists" |
+| Sound 140 | Actor exits              | N/A                                |                                                                                                         |
+| Sound 150 | "laugh"                  | N/A                                |                                                                                                         |
+| Sound 160 | End of show              |                                    | Essentially sound 160 functioning as house exit music                                                   |

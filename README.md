@@ -110,3 +110,6 @@ B. A. S. Information System Technology Eastern Florida State College
 ## Questions
 
 -Can I just remove the irrelevant subsections in director, producer, ex and just put the actual relevant text and files there or do the files that are there need to remain there in order to keep code working
+
+## Outstanding Work
+
