@@ -1,5 +1,5 @@
 ---
-title: designer
+title: Designer
 ---
 
 
