@@ -10,7 +10,7 @@ title: Designer
 
 [A Scar Is Born](./AScarIsBorn)
 
-[Lifespan Of A Fact](./LifespanOfFact)
+[Lifespan Of A Fact](./LifespanOfAFact)
 
 [Ah, Wilderness](./AhWilderness)
 
