@@ -93,6 +93,9 @@ B. A. S. Information System Technology Eastern Florida State College
 
 - credit to Fox or DivineVulpes for the Brand Logo
     - Where should this go
+
+-Need to Find Actual Final Version of Sound Design Cue Sheet For Princess And The Pea
+-Get Speaker Plot and Schedule for Lighting Design For Princess And The Pea
     
 ## Scott Todo
 
