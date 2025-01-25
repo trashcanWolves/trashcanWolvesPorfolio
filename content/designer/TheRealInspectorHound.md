@@ -8,15 +8,25 @@ layout: section
 The Real Inspector Hound is a commentary on the reality of the impact of theatre critics and the role they play on the theatre industry.
 
 Eastern Florida State College Studio Theatre
+
 Director: Selena Ambush 
+
 Technical Director: Paul McKee 
-Stage Manager: Alexandria Baker 
+
+Stage Manager: Alexandria Baker
+ 
 Sound Designer: Two Kearns
+
 Set: Veronica LaCroix, Lilly Hasting, Paul McKee, David Jackson, Alyssa Barrack
+
 Properties Design: Grace Ferguson
+
 Lighting Design: Paul McKee, Alexdria Backer, Alyssa Barrack
+
 Costumes: Selna Ambush, Angelia Shank
+
 Dramaturge/Fight Choregrapher: Alyssa Barrack
+
 
 | Sound                       | Page                            | Cue                                        | Notes                                                                         |                                                |
 | --------------------------- | ------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------- |
