@@ -8,6 +8,25 @@ layout: section
 
 Ah, Wilderness is a look back at the year 1906 and the lives of the Miller Family during a Forth of July Holiday.
 
+Eastern Florida Stage College Studio Theatre
+    
+Director: Selena Ambush
+    
+Technical Director: Paul McKee
+    
+Stage Manager and Properties Designer: Grace Ferguson
+    
+Sound Designer: Two Kearns
+    
+Set Designer: Lilly Hastings
+    
+Lighting Designer: Davis Vande Stegg
+    
+Costume: Zoie Bethel, Selena Ambush
+    
+Dramaturg: Alyssa Barrack
+
+
 | Cue Number   | Cue Name                      | Cue In                                                 | Cue Out                                | Notes               | Page # |
 | ------------ | ----------------------------- | ------------------------------------------------------ | -------------------------------------- | ------------------- | ------ |
 | Preshow      | Preshow                       | N/A                                                    | Fade when called                       |                     | N/A    |

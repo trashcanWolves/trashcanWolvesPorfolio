@@ -8,6 +8,25 @@ layout: section
 
 The Lifespan Of A Fact is the capturing of the unseen moment of a suicide the occurred on the roof of a Las Vegas Casino.
 
+Eastern Florida State College Mainstage Theatre
+    
+Director: Dr. Janet E. Rubin
+    
+Technical Director: Paul McKee
+    
+Stage Manager: Frances Calderon
+    
+Sound Designer: Two Kearns
+    
+Set Designer: Lynn Spencer
+    
+Costume Designer: Aya Asseid
+    
+Properties Designer: Grace Ferguson
+    
+Lighting Designer: Rachel Hickman
+
+
 | Sound effect                                                    | Cue In                                        | Cue Out (if applicable)         | Notes | Page Number |
 | --------------------------------------------------------------- | --------------------------------------------- | ------------------------------- | ----- | ----------- |
 | Pre-show                                                        |                                               |                                 |       | 5           |
