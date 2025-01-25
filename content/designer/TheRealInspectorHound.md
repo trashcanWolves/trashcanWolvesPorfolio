@@ -5,6 +5,8 @@ layout: section
 ---
 ![inspector_hound.jpg](/inspector_hound.jpg)
 
+<img src="inspector_hound.jpg" alt="inspector_hound.jpg" width="1000" height="1000">
+
 The Real Inspector Hound is a commentary on the reality of the impact of theatre critics and the role they play on the theatre industry.
 
 Eastern Florida State College Studio Theatre
