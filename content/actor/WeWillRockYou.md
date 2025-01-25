@@ -9,3 +9,5 @@ layout: section
 Named Bohemian 
 
 Viera High School
+
+Director Eloise Evans

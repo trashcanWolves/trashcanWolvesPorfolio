@@ -7,6 +7,14 @@ layout: section
 
 A Scar Is Born is a journey from the sounds of a crowded audition room, to poetry told to us to music, to the sounds of political uprising and so much more as we follow one actor from France as they tell us their life story.
 
+Orlando Shakespeare Center Fringe Festival and Other Fringe Festivals Internationally
+
+Director, Playwright, Producer: Lorelei Zarifian
+
+Sound Designer: Two Kearns (credited under name Violet)
+    
+Lighting Designer: Alexandria Baker
+
 ![scar_born_speaker_chart.png](/scar_born_speaker_chart.png)
 
 <p>
