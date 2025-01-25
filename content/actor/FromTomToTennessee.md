@@ -8,7 +8,21 @@ layout: section
 
 Girl in the play Mister Paradise
 
-Eastern Florida State College
+Eastern Florida State College Studio Theatre
+    
+Director: Selena Ambush
+    
+Technical Director: Paul McKee
+    
+Stage Manager and Properties Designer: Grace Ferguson
+    
+Sound Designer: Two Kearns
+    
+Set Designer: Lilly Hastings
+    
+Lighting Designer: Alyssa Barrack
+    
+Costumes: Alix Banks, Isabel Fuentes
 
 ![tom_tom_actor_one.jpg](/tom_to_actor_one.jpg)
 

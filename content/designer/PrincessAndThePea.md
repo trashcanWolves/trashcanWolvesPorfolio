@@ -7,6 +7,20 @@ layout: section
 
 Princess And The Pea is an energetic disco fueled gameshow to determine which princess in the land is most fit to marry the prince.
 
+Eastern Florida State College Mainstage Theatre
+    
+Technical Director: Paul McKee
+    
+Stage Manager and Properties Designer: Grace Ferguson
+    
+Sound and Lighting Designer: Two Kearns
+    
+Set Designer: Eric Craft
+    
+Costumes: Isabel Fuentes
+    
+Choregrapher: Geovana De Olivira Martins
+
 ![Princess_Pea_speaker_chart.png](/Princess_Pea_speaker_chart.png)
 
 Sound Design Cue Sheet

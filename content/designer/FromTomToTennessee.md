@@ -8,6 +8,22 @@ layout: section
 
 From Tom To Tennessee is a tour through the sounds of a 1930s New Orleans as we take a look into society in this time at large and the inside lives of the characters including the part of the character’s inner sound scapes that they might not even share with those around them.
 
+Eastern Florida State College Studio Theatre
+    
+Director: Selena Ambush
+    
+Technical Director: Paul McKee
+    
+Stage Manager and Properties Designer: Grace Ferguson
+    
+Sound Designer: Two Kearns
+    
+Set Designer: Lilly Hastings
+    
+Lighting Designer: Alyssa Barrack
+    
+Costumes: Alix Banks, Isabel Fuentes
+
 ![tom_to_speaker_diagram.jpg](/tom_to_speaker_diagram.jpg)
 
 | Cue#        | Cue Name                        | Cue Line                                                         | Speaker                  | Notes                                     |
