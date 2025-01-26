@@ -123,3 +123,8 @@ Akeelah And The Bee is a tour through the hip hop music of the 90s and early 200
 | 1040   | Control Cue                                | After Line: Pronouncer: "That is correct"                            | 104         |
 | 1060   | Celebration                                | On Line:" cowinners of the 2015"                                     | 106         |
 | 1061   | Curtain Call/House Exit                    | End of Show                                                          | N/A         |
+
+
+Sound Samples
+
+[DJ Recording 1](https://drive.google.com/file/d/1RlDb0YRYF4btdAM-6r_pMSQtYvMX82QN/view?usp=sharing)

@@ -75,6 +75,11 @@ Sound Design Cue Sheet
 | Curtain Call | End of show                                 | Electro Music                                               | Overhead          |
 |              |                                             |                                                             |                   |
 
+Sound Samples
+
+[Preshow](https://drive.google.com/file/d/1c7N64He4xI3HHfwxYtKM0_EzO_PR7Zx-/view?usp=sharing)
+
+
 
 Lighting Design Cue Sheet
 
