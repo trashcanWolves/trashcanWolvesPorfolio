@@ -4,7 +4,7 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-![ah_wilderness_actor_one.jpg](/ah_wilderness_actor_one.jpg)
+![ah_wilderness_actor.jpg](/ah_wilderness_actor.jpg)
 
 Tommy Miller 
 
