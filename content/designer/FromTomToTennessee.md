@@ -85,3 +85,29 @@ Costumes: Alix Banks, Isabel Fuentes
 | 100         | Train                           | Willie:"everything went to pieces"                               | Upstage Center           |                                           |
 | 101         | Train                           |                                                                  | Upstage Center           |                                           |
 | Curtain     | Curtain Call/House Exit         |                                                                  | Downstage Right and Left |                                           |
+
+Play that were part of the night of One Acts:
+
+-Mister Paradise
+
+-Why Do You Smoke So Much Lilly
+
+-Auto De Fe
+
+-Talk To Me Like the Rain
+
+-These Are The Stairs You Have To Watch
+
+-Summer At The Lake
+
+-The Muncipal Abiator
+
+-This Property Is Condemmed
+
+Sound Samples:
+
+[A Parade](https://drive.google.com/file/d/1U0eyHfB6ysi5J5ZvJbWp9g1T5oj_Ljuy/view?usp=sharing)
+
+[Preshow](https://drive.google.com/file/d/1WxJmJJK1gHYIY_QKhvludxRNIXd2Hylk/view?usp=sharing)
+
+[Why Do You Smoke So Much Lilly. A Voice in Lilly's Head](https://drive.google.com/file/d/1nmF9-D8HDD2KVRJveK2ZtLQmFmd4QUzg/view?usp=sharing)

@@ -64,3 +64,11 @@ Leicester Comedy Festival February 2024 <br>
 | Sound 140 | Actor exits              | N/A                                |                                                                                                         |
 | Sound 150 | "laugh"                  | N/A                                |                                                                                                         |
 | Sound 160 | End of show              |                                    | Essentially sound 160 functioning as house exit music                                                   |
+
+Sound Samples:
+
+[A Tragedy](https://drive.google.com/file/d/1TLiKyOOGp2nElQS8IbuQOings2EGjQhP/view?usp=sharing)
+
+[A Protest](https://drive.google.com/file/d/1PQO0uljI5ds88LaCvudP1-QS4IfFaE44/view?usp=sharing)
+
+[Preshow](https://drive.google.com/file/d/1I_iJS8fN4e2G6BQ3o8DYhXNi8Ku6A1ih/view?usp=sharing)

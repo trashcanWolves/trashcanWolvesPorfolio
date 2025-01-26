@@ -8,6 +8,26 @@ layout: section
 
 The Tempest is a journey through the sounds of the Florida everglades and beach's. And features the magic of one a spirt named Ariel characterized through the music of Philip Glass.
 
+Eastern Florida State College Mainstage Theatre
+    
+Director: Selena Ambush 
+    
+Technical Director: Paul McKee
+    
+Stage Manager and Properties Designer: Grace Ferguson
+    
+Sound Designer:Two Kearns
+    
+Choreographer: Cullen Sanders
+    
+Set and Lighting Design: Eric Craft
+    
+Costumes: Selena Ambush, Rolando Ramos
+    
+Makeup Designer: Morgan Risley
+    
+Dramaturg: Alyssa Barrack
+
 ![tempest_speaker_chart.png](/tempest_speaker_chart.png)
 
 
@@ -79,3 +99,13 @@ The Tempest is a journey through the sounds of the Florida everglades and beach'
 | 530         | Control Cue(Ariel's Theme)     | Ariel Leaving                                      |                                  |
 | 531         | Control Cue (Prospero's Layer) | Start of Prospero's Epilogue                       |                                  |
 | 540         | Curtain Call/House Exit        | End of Show                                        |                                  |
+
+
+Sound Samples
+
+[Preshow](https://drive.google.com/file/d/1OTzNHjX2Bpmp_XLwLUevumzyMYzPPJkl/view?usp=sharing)
+
+
+[The Great Storm](https://drive.google.com/file/d/1Nq7R_scETMVKuYrvVEnAdQGRgGnzXVj7/view?usp=sharing)
+
+[Prospero's Layer](https://drive.google.com/file/d/1uKR_1Rm9C_f23aIbvzaqPdhOPB03x-K6/view?usp=sharing)
