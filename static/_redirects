@@ -1,2 +1,14 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
-/test     https://docs.google.com/document/d/1QM47ADDQUXoIrbCraVwv1GzrOS-3sFUs/edit
+
+/tavern_inn_play_script                   https://docs.google.com/document/d/1QM47ADDQUXoIrbCraVwv1GzrOS-3sFUs/edit
+/the_tempest_preshow                      https://drive.google.com/file/d/1OTzNHjX2Bpmp_XLwLUevumzyMYzPPJkl/view?usp=sharing
+/the_tempest_the_great_storm              https://drive.google.com/file/d/1Nq7R_scETMVKuYrvVEnAdQGRgGnzXVj7/view?usp=sharing
+/the_tempest_prosperos_layer              https://drive.google.com/file/d/1uKR_1Rm9C_f23aIbvzaqPdhOPB03x-K6/view?usp=sharing
+/princess_and_the_pea_preshow             https://drive.google.com/file/d/1c7N64He4xI3HHfwxYtKM0_EzO_PR7Zx-/view?usp=sharing
+/from_tom_to_tennessee_a_parade           https://drive.google.com/file/d/1U0eyHfB6ysi5J5ZvJbWp9g1T5oj_Ljuy/view?usp=sharing
+/from_tom_to_tennessee_preshow            https://drive.google.com/file/d/1U0eyHfB6ysi5J5ZvJbWp9g1T5oj_Ljuy/view?usp=sharing
+/from_tom_to_tennessee_why_do_you_smoke   https://drive.google.com/file/d/1U0eyHfB6ysi5J5ZvJbWp9g1T5oj_Ljuy/view?usp=sharing
+/a_scar_is_born_a_tragedy                 https://drive.google.com/file/d/1TLiKyOOGp2nElQS8IbuQOings2EGjQhP/view?usp=sharing
+/a_scar_is_born_a_protest                 https://drive.google.com/file/d/1PQO0uljI5ds88LaCvudP1-QS4IfFaE44/view?usp=sharing
+/a_scar_is_born_preshow                   https://drive.google.com/file/d/1I_iJS8fN4e2G6BQ3o8DYhXNi8Ku6A1ih/view?usp=sharing
+/akeelah_and_the_bee_dj_recording         https://drive.google.com/file/d/1RlDb0YRYF4btdAM-6r_pMSQtYvMX82QN/view?usp=sharing
