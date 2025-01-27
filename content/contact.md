@@ -1,4 +1,4 @@
 ---
 title: contact wolves!
 ---
-[Email wolves](mailto:wolvesoftrash@gmail.com)
+[Email Wolves](mailto:wolvesoftrash@gmail.com)
