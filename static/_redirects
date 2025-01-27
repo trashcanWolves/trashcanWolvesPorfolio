@@ -1,0 +1,2 @@
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+/test     https://docs.google.com/document/d/1QM47ADDQUXoIrbCraVwv1GzrOS-3sFUs/edit
