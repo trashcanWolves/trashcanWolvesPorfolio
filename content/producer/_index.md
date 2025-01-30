@@ -2,13 +2,17 @@
 title: Producer
 ---
 
-Genderful Podcast. 
+## Genderful Podcast
+
+![Genderful Podcast](/genderful_podcast.png)
 
 Worked on the Latest 10 Episodes.
 
 [Genderful Mental Healthcare & Self Expression with Tiraj Johnson](https://www.youtube.com/watch?v=kbabY1ZpYwo)
 
-Gender Federation Work
+## Gender Federation
+
+![Gender Federation](/gender_federaton.png)
 
 [Ezra Mutual Aid Highlight Reel](https://youtu.be/Pd_kYcpyJ7I?feature=shared)
 

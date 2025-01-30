@@ -12,12 +12,13 @@ outputs:
 (All Pronouns)
 
 [Resume](/two_kearns_resume.pdf)
+
 ## Education
 
-B. F. A. Design/Technology University of West Florida
+B. F. A. Design/Technology, University of West Florida
 
-B. A. S. Information System Technology Eastern Florida State College
+B. A. S. Information System Technology, Eastern Florida State College
 
-### Volunteering
+## Volunteering
 
-Gender Fed/Meowster's Clowder December 2023-Present
+**Gender Federation / Meowster's Clowder**: December 2023-Present
