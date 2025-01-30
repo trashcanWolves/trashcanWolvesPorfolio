@@ -22,11 +22,11 @@ Ah, Wilderness is a look back at the year 1906 and the lives of the Miller Famil
 
 **Set Designer**: Lilly Hastings
 
-**:Lighting Designer**:: Davis Vande Stegg
+**Lighting Designer**: Davis Vande Stegg
 
 **Costume**: Zoie Bethel, Selena Ambush
 
-**:Dramaturg**:: Alyssa Barrack
+**Dramaturg**: Alyssa Barrack
 
 {{% /expand%}}
 

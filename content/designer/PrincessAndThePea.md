@@ -87,7 +87,7 @@ Princess And The Pea is an energetic disco fueled gameshow to determine which pr
 {{% /expand%}}
 {{%expand "Sound Samples" %}}
 
-[Preshow](https://drive.google.com/file/d/1c7N64He4xI3HHfwxYtKM0_EzO_PR7Zx-/view?usp=sharing)
+[Preshow](/princess_and_the_pea_preshow)
 
 {{% /expand%}}
 

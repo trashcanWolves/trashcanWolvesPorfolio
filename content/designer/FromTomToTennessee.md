@@ -100,32 +100,30 @@ From Tom To Tennessee is a tour through the sounds of a 1930s New Orleans as we 
 
 {{%expand "Play that were part of the night of One Acts" %}}
 
+- Mister Paradise
 
+- Why Do You Smoke So Much Lilly
 
--Mister Paradise
+- Auto De Fe
 
--Why Do You Smoke So Much Lilly
+- Talk To Me Like the Rain
 
--Auto De Fe
+- These Are The Stairs You Have To Watch
 
--Talk To Me Like the Rain
+- Summer At The Lake
 
--These Are The Stairs You Have To Watch
+- The Municipal Abiator
 
--Summer At The Lake
-
--The Muncipal Abiator
-
--This Property Is Condemmed
+- This Property Is Condemned
 
 {{% /expand%}}
 
 {{%expand "Sound Samples" %}}
 
-[A Parade](https://drive.google.com/file/d/1U0eyHfB6ysi5J5ZvJbWp9g1T5oj_Ljuy/view?usp=sharing)
+[A Parade](/from_tom_to_tennessee_a_parade)
 
-[Preshow](https://drive.google.com/file/d/1WxJmJJK1gHYIY_QKhvludxRNIXd2Hylk/view?usp=sharing)
+[Preshow](/from_tom_to_tennessee_preshow)
 
-[Why Do You Smoke So Much Lilly. A Voice in Lilly's Head](https://drive.google.com/file/d/1nmF9-D8HDD2KVRJveK2ZtLQmFmd4QUzg/view?usp=sharing)
+[Why Do You Smoke So Much Lilly. A Voice in Lilly's Head](/from_tom_to_tennessee_why_do_you_smoke)
 
 {{% /expand%}}

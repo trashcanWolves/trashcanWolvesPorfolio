@@ -27,30 +27,33 @@ A Scar Is Born is a journey from the sounds of a crowded audition room, to poetr
 
 {{%expand "Places A Scar is Born Has Been" %}}
 
+- **Orlando Fringe** May of 2022
 
--Orlando Fringe May of 2022
+- **San Diego Fringe** June of 2022 
+  - Won Best World Premiere Award
 
--San Diego Fringe June of 2022 Won Best World Premiere Award
+- **San Francisco Fringe** September of 2022 
+  - Won Best of the Fringe
 
--San Francisco Fringe September of 2022 Won Best of the Fringe
+- Tucson Fringe January of 2023 
+  - Won Best Solo Show
 
--Tucson Fringe January of 2023 Won Best Solo Show
+- **London Vault Festival Fringe** January of 2023
 
--London Vault Festival Fringe January of 2023
+- **New York Fringe** February of 2023 
+  - Won Best Word Play
 
--New York Fringe February of 2023 Won Best Word Play
+- **Digital New Zealand Fringe** February 2023
 
--Digital New Zealand Fringe February 2023
+- **Hollywood Fringe** June 2023
 
--Hollywood Fringe June 2023
+- **Digital Fringe Festival Ukraine** August 2023
 
--Digital Fringe Festival Ukraine August 2023
+- **Cannonball Fest** September 2023
 
--Cannonball Fest September 2023
+- **Claphan Fringe** September 2023
 
--Claphan Fringe September 2023
-
--Leicester Comedy Festival February 2024 
+- **Leicester Comedy Festival** February 2024 
 
 {{% /expand%}}
 
@@ -77,10 +80,10 @@ A Scar Is Born is a journey from the sounds of a crowded audition room, to poetr
 
 {{%expand "Sound Samples" %}}
 
-[A Tragedy](https://drive.google.com/file/d/1TLiKyOOGp2nElQS8IbuQOings2EGjQhP/view?usp=sharing)
+[A Tragedy](/a_scar_is_born_a_tragedy)
 
-[A Protest](https://drive.google.com/file/d/1PQO0uljI5ds88LaCvudP1-QS4IfFaE44/view?usp=sharing)
+[A Protest](/a_scar_is_born_a_protest)
 
-[Preshow](https://drive.google.com/file/d/1I_iJS8fN4e2G6BQ3o8DYhXNi8Ku6A1ih/view?usp=sharing)
+[Preshow](/a_scar_is_born_preshow)
 
 {{% /expand%}}

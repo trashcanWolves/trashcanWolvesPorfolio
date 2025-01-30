@@ -133,4 +133,4 @@ Akeelah And The Bee is a tour through the hip hop music of the 90s and early 200
 
 Sound Samples
 
-[DJ Recording 1](https://drive.google.com/file/d/1RlDb0YRYF4btdAM-6r_pMSQtYvMX82QN/view?usp=sharing)
+[DJ Recording 1](/akeelah_and_the_bee_dj_recording)

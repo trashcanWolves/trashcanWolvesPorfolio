@@ -107,15 +107,15 @@ The Tempest is a journey through the sounds of the Florida everglades and beach'
 | 530 | Control Cue(Ariel's Theme) | Ariel Leaving  |  |
 | 531 | Control Cue (Prospero's Layer) | Start of Prospero's Epilogue   |  |
 | 540 | Curtain Call/House Exit| End of Show|  |
-{{% /expand%}}
 
+{{% /expand%}}
 
 {{%expand "Sound Samples" %}}
 
-[Preshow](https://drive.google.com/file/d/1OTzNHjX2Bpmp_XLwLUevumzyMYzPPJkl/view?usp=sharing)
+[Preshow](/the_tempest_preshow)
 
-[The Great Storm](https://drive.google.com/file/d/1Nq7R_scETMVKuYrvVEnAdQGRgGnzXVj7/view?usp=sharing)
+[The Great Storm](/the_tempest_the_great_storm)
 
-[Prospero's Layer](https://drive.google.com/file/d/1uKR_1Rm9C_f23aIbvzaqPdhOPB03x-K6/view?usp=sharing)
+[Prospero's Layer](/the_tempest_prosperos_layer)
 
 {{% /expand%}}
