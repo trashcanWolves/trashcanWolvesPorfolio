@@ -23,7 +23,7 @@ Linked is just one of the episodes of Genderful I worked on as a portfolio sampl
 [Gender Federation Twitch and You tube Channel Trailer](https://youtu.be/7_qmEv1ryBs?feature=shared)
 
 
-##Viera High Theatre Department Publicity Manager of Video Material 2018-2020
+## Viera High Theatre Department Publicity Manager of Video Material 2018-2020
 
 Example of one of the Video Promos I worked on for the Viera High Theatre Department
 
