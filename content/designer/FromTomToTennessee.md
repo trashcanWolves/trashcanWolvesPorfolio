@@ -34,7 +34,7 @@ From Tom To Tennessee is a tour through the sounds of a 1930s New Orleans as we 
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 | Cue#| Cue Name| Cue Line | Speaker  | Notes |
 | ----------- | ------------------------------- | ---------------------------------------------------------------- | ------------------------ | ----------------------------------------- |

@@ -29,7 +29,7 @@ A Dream Play is a journey through the in-between of the Realm of the Gods and th
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 | Sound  | Cue In   | Cue Out  | Notes|
 | ------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ---------------- |

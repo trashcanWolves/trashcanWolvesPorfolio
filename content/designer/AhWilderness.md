@@ -30,7 +30,7 @@ Ah, Wilderness is a look back at the year 1906 and the lives of the Miller Famil
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 | Cue Number   | Cue Name  | Cue In | Cue Out| Notes   | Page # |
 | ------------ | ----------------------------- | ------------------------------------------------------ | -------------------------------------- | ------------------- | ------ |

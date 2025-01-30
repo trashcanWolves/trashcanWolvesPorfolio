@@ -30,7 +30,7 @@ Akeelah And The Bee is a tour through the hip hop music of the 90s and early 200
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 || Cue Name/Description   | Cue Line | Page Number |
 | ------ | ------------------------------------------ | -------------------------------------------------------------------- | ----------- |

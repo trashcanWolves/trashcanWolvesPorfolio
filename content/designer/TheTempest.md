@@ -38,7 +38,7 @@ The Tempest is a journey through the sounds of the Florida everglades and beach'
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 | Pre-Show | Pre-Show | Pre-Show| |
 | ------------ | ------------ | --------------- | ----------------------- |

@@ -29,7 +29,7 @@ The Lifespan Of A Fact is the capturing of the unseen moment of a suicide the oc
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 
 | Sound effect| Cue In| Cue Out (if applicable) | Notes | Page Number |

@@ -31,7 +31,7 @@ The Real Inspector Hound is a commentary on the reality of the impact of theatre
 
 {{% /expand%}}
 
-{{%expand "cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 
 | Sound                       | Page                            | Cue                                        | Notes                                                                         |                                                |

@@ -33,7 +33,7 @@ Princess And The Pea is an energetic disco fueled gameshow to determine which pr
 
 {{% /expand%}}
 
-{{%expand "Cue Sheet" %}}
+{{%expand "Sound Cue Sheet" %}}
 
 | Cue  | Cue Line| Description | Speaker   |
 | ------------ | ------------------------------------------- | ----------------------------------------------------------- | ----------------- |
@@ -91,7 +91,7 @@ Princess And The Pea is an energetic disco fueled gameshow to determine which pr
 
 {{% /expand%}}
 
-{{%expand "Lighting Design Cue Sheet" %}}
+{{%expand "Lighting Cue Sheet" %}}
 
 | Cue #| Cue Line   |
 | ------------ | ------------------------------------------------------ |
