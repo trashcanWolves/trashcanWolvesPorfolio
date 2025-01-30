@@ -25,36 +25,32 @@ A Scar Is Born is a journey from the sounds of a crowded audition room, to poetr
 
 {{% /expand%}}
 
-{{%expand "Awards" %}}
+{{%expand "Places A Scar is Born Has Been" %}}
 
-<p>
-Orlando Fringe 	May of 2022 <br>
 
-San Diego Fringe June of 2022 <br>
-Won Best World Premiere Award <br>
+-Orlando Fringe May of 2022
 
-San Francisco Fringe September of 2022 <br>
-Won Best of the Fringe <br>
+-San Diego Fringe June of 2022 Won Best World Premiere Award
 
-Tucson Fringe January of 2023 <br>
-Won Best Solo Show <br>
+-San Francisco Fringe September of 2022 Won Best of the Fringe
 
-London Vault Festival Fringe January of 2023 <br>
+-Tucson Fringe January of 2023 Won Best Solo Show
 
-New York Fringe February of 2023 <br>
- Best Word Play <br>
+-London Vault Festival Fringe January of 2023
 
-Digital New Zealand Fringe February 2023 <br>
+-New York Fringe February of 2023 Won Best Word Play
 
-Hollywood Fringe June 2023 <br>
+-Digital New Zealand Fringe February 2023
 
-Digital Fringe Festival Ukraine August 2023 <br>
+-Hollywood Fringe June 2023
 
-Cannonball Fest	September 2023 <br>
+-Digital Fringe Festival Ukraine August 2023
 
-Claphan Fringe September 2023 <br>
+-Cannonball Fest September 2023
 
-Leicester Comedy Festival February 2024 <br>
+-Claphan Fringe September 2023
+
+-Leicester Comedy Festival February 2024 
 
 {{% /expand%}}
 
