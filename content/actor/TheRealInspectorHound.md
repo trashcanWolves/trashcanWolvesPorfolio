@@ -2,28 +2,33 @@
 title: The Real Inspector Hound
 image: /img/wewillrockyou.jpg
 layout: section
+# https://en.wikipedia.org/wiki/The_Real_Inspector_Hound
 ---
 
 ![inspector_hound.jpg](/inspector_hound.jpg)
 
  Higgs 
 
-Eastern Florida State College Studio Theatre
+{{%expand "Credits" %}}
 
-Director: Selena Ambush 
+## Eastern Florida State College Studio Theatre
 
-Technical Director: Paul McKee 
+**Director**: Selena Ambush 
 
-Stage Manager: Alexandria Baker
- 
-Sound Designer: Two Kearns
+**Technical Director**: Paul McKee 
 
-Set: Veronica LaCroix, Lilly Hasting, Paul McKee, David Jackson, Alyssa Barrack
+**Stage Manager**: Alexandria Baker
 
-Properties Design: Grace Ferguson
+**Sound Designer**: Two Kearns
 
-Lighting Design: Paul McKee, Alexdria Backer, Alyssa Barrack
+**Set**: Veronica LaCroix, Lilly Hasting, Paul McKee, David Jackson, Alyssa Barrack
 
-Costumes: Selna Ambush, Angelia Shank
+**Properties Design**: Grace Ferguson
 
-Dramaturge/Fight Choregrapher: Alyssa Barrack
+**Lighting Design**: Paul McKee, Alexdria Backer, Alyssa Barrack
+
+**Costumes**: Selna Ambush, Angelia Shank
+
+**Dramaturge/Fight Choregrapher**: Alyssa Barrack
+
+{{% /expand%}}

@@ -6,6 +6,10 @@ layout: section
 
  Snow White's 
 
-Prince Viera High School
+{{%expand "Credits" %}}
 
-Director Eloise Evans
+## Prince Viera High School
+
+**Director**: Eloise Evans
+
+{{% /expand%}}

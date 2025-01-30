@@ -8,6 +8,10 @@ layout: section
 
 Named Bohemian 
 
-Viera High School
+{{%expand "Credits" %}}
 
-Director Eloise Evans
+## Viera High School
+
+**Director**: Eloise Evans
+
+{{% /expand%}}

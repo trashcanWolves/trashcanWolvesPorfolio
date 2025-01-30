@@ -10,21 +10,25 @@ layout: section
 
 Eastern Florida State College Studio Theatre
 
-Director: Selena Ambush
+{{%expand "Credits" %}}
 
-Technical Director: Paul McKee
-    
-Stage Manager and Lighting Designer: Alexandria Baker
-    
-Sound Designer: Two Kearns
-    
-Set Designer: Jay Bleakney
-    
-Costume Designer: Morgan Risley
-    
-Projections: Jay Bleakney, Selena Ambush, Alexandria Baker
-    
-Dramaturg: Alyssa Barrack
+**Director**: Selena Ambush
+
+**Technical Director**: Paul McKee
+
+**Stage Manager and Lighting Designer**: Alexandria Baker
+
+**Sound Designer**: Two Kearns
+
+**Set Designe**r: Jay Bleakney
+
+**Costume Designer**: Morgan Risley
+
+**Projections**: Jay Bleakney, Selena Ambush, Alexandria Baker
+
+**Dramaturg**: Alyssa Barrack
+
+{{% /expand%}}
 
 
 ![dream_play_actor_one.jpg](/dream_play_actor_one.jpg)

@@ -7,6 +7,10 @@ layout: section
 
 War of the Worlds Announcer 3/Policeman/Captain Lansing/Operator 4 
 
-Eastern Florida State College Theatre Club Virtual Production
+{{%expand "Credits" %}}
 
-Sound Effects: Two Kearns
+## Eastern Florida State College Theatre Club Virtual Production
+
+**Sound Effects**: Two Kearns
+
+{{% /expand%}}
