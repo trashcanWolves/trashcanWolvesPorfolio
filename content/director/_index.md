@@ -4,9 +4,12 @@ title: Director
 
 - Scene from *Laughing Wild* Spring 2024 Eastern Florida State College Directing 1 Showcase
 
-Production Concept Collage *Laughing Wild*
+{{%expand "Production Concept Collage *Laughing Wild*" %}}
 
 ![laughing_wild.jpg](/laughing_wild.jpg)
+
+
+{{% /expand%}}
 
 - Scene from *The Veil of Ignorance* Spring 2024 Eastern Florida State College Performing Arts Showcase
 
