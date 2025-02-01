@@ -4,9 +4,14 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-![akelah.jpg](/akelah.jpg)
+
 
 Akeelah And The Bee is a tour through the hip hop music of the 90s and early 2000s as the audience is pulled into and made a part of the community of 709.
+
+{{%expand "Pictures" %}}
+
+
+![akelah.jpg](/akelah.jpg)
 
 {{%expand "Credits" %}}
 

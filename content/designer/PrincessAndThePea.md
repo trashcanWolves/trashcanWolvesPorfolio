@@ -3,9 +3,16 @@ title: Princess And The Pea
 image: /img/wewillrockyou.jpg
 layout: section
 ---
-![Princess_Pea.jpg](/Princess_Pea.jpg)
+
 
 Princess And The Pea is an energetic disco fueled gameshow to determine which princess in the land is most fit to marry the prince.
+
+{{%expand "Pictures" %}}
+
+![Princess_Pea.jpg](/Princess_Pea.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

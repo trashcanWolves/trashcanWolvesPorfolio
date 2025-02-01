@@ -3,9 +3,16 @@ title: The Real Inspector Hound
 image: /img/wewillrockyou.jpg
 layout: section
 ---
-![inspector_hound.jpg](/inspector_hound.jpg)
+
 
 The Real Inspector Hound is a commentary on the reality of the impact of theatre critics and the role they play on the theatre industry.
+
+{{%expand "Pictures" %}}
+
+![inspector_hound.jpg](/inspector_hound.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

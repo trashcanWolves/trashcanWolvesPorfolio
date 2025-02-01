@@ -4,9 +4,15 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-![ah_wilderness_designer.jpg](/ah_wilderness_designer.jpg)
+
 
 Ah, Wilderness is a look back at the year 1906 and the lives of the Miller Family during a Forth of July Holiday.
+
+{{%expand "Pictures" %}}
+
+![ah_wilderness_designer.jpg](/ah_wilderness_designer.jpg)
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

@@ -3,9 +3,16 @@ title: A Scar Is Born
 image: /img/wewillrockyou.jpg
 layout: section
 ---
-![scar_born.jpg](/scar_born.jpg)
+
 
 A Scar Is Born is a journey from the sounds of a crowded audition room, to poetry told to us to music, to the sounds of political uprising and so much more as we follow one actor from France as they tell us their life story.
+
+{{%expand "Pictures" %}}
+
+![scar_born.jpg](/scar_born.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

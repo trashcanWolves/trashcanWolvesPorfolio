@@ -4,9 +4,16 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-![tempest.jpg](/tempest.jpg)
+
 
 The Tempest is a journey through the sounds of the Florida everglades and beach's. And features the magic of one a spirt named Ariel characterized through the music of Philip Glass.
+
+{{%expand "Pictures" %}}
+
+![tempest.jpg](/tempest.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 
