@@ -5,9 +5,16 @@ layout: section
 # https://en.wikipedia.org/wiki/The_Real_Inspector_Hound
 ---
 
-![inspector_hound.jpg](/inspector_hound.jpg)
+
 
  Higgs 
+
+{{%expand "Pictures" %}}
+
+![inspector_hound.jpg](/inspector_hound.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

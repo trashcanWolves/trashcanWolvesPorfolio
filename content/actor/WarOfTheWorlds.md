@@ -3,9 +3,16 @@ title: War of the worlds
 image: /img/wewillrockyou.jpg
 layout: section
 ---
-![war_worlds.jpg](/war_worlds.jpg)
+
 
 War of the Worlds Announcer 3/Policeman/Captain Lansing/Operator 4 
+
+{{%expand "Pictures" %}}
+
+![war_worlds.jpg](/war_worlds.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

@@ -3,9 +3,16 @@ title: The Tempest
 image: /img/wewillrockyou.jpg
 layout: section
 ---
-![tempest.jpg](/tempest.jpg)
+
 
 Ceres/Ensemble 
+
+{{%expand "Pictures" %}}
+
+![tempest.jpg](/tempest.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

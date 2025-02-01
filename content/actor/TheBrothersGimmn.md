@@ -4,7 +4,7 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
- Snow White's 
+Snow White's Prince
 
 {{%expand "Credits" %}}
 

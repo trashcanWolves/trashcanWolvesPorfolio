@@ -4,11 +4,18 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-![dream_play.jpg](/dream_play.jpg)
+
 
  Billstick/Rich Fat Sick/Maid/Building Worker 2/Barrister
 
 Eastern Florida State College Studio Theatre
+
+{{%expand "Pictures" %}}
+
+![dream_play.jpg](/dream_play.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 

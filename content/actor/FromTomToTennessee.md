@@ -4,9 +4,16 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-![tom_tojpg](/tom_to.jpg)
+
 
 Girl in the play Mister Paradise
+
+{{%expand "Pictures" %}}
+
+![tom_tojpg](/tom_to.jpg)
+
+
+{{% /expand%}}
 
 {{%expand "Credits" %}}
 
