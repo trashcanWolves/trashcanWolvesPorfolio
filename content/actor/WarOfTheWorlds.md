@@ -11,6 +11,7 @@ War of the Worlds Announcer 3/Policeman/Captain Lansing/Operator 4
 
 ## Eastern Florida State College Theatre Club Virtual Production
 
-**Sound Effects**: Two Kearns
+**Director**: Gabriella Autry
+**Sound Effects Acquisition and Running**: Two Kearns
 
 {{% /expand%}}

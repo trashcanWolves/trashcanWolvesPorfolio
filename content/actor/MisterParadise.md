@@ -6,7 +6,7 @@ layout: section
 
 ![tom_tojpg](/tom_to.jpg)
 
-Girl in the play Mister Paradise
+Girl
 
 {{%expand "Credits" %}}
 
