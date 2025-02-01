@@ -12,6 +12,7 @@ Tommy Miller
 
 ![ah_wilderness_actor.jpg](/ah_wilderness_actor.jpg)
 
+![ah_wilderness_actor_two.jpg](/ah_wilderness_actor_two.jpg)
 
 {{% /expand%}}
 
@@ -38,4 +39,3 @@ Tommy Miller
 {{% /expand%}}
 
 
-![ah_wilderness_actor_two.jpg](/ah_wilderness_actor_two.jpg)

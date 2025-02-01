@@ -11,6 +11,7 @@ Ceres/Ensemble
 
 ![tempest.jpg](/tempest.jpg)
 
+![tempest_actor_one.jpg](/tempest_actor_one.jpg)
 
 {{% /expand%}}
 
@@ -37,4 +38,4 @@ Ceres/Ensemble
 **Dramaturg**: Alyssa Barrack
 {{% /expand%}}
 
-![tempest_actor_one.jpg](/tempest_actor_one.jpg)
+

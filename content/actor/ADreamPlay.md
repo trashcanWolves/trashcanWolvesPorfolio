@@ -14,6 +14,15 @@ Eastern Florida State College Studio Theatre
 
 ![dream_play.jpg](/dream_play.jpg)
 
+![dream_play_actor_one.jpg](/dream_play_actor_one.jpg)
+
+![dream_play_actor_two.jpg](/dream_play_actor_two.jpg)
+
+![dream_play_actor_three.jpg](/dream_play_actor_three.jpg)
+
+![dream_play_actor_four.jpg](/dream_play_actor_four.jpg)
+
+![dream_play_actor_five.jpg](/dream_play_actor_five.jpg)
 
 {{% /expand%}}
 
@@ -38,15 +47,7 @@ Eastern Florida State College Studio Theatre
 {{% /expand%}}
 
 
-![dream_play_actor_one.jpg](/dream_play_actor_one.jpg)
 
-![dream_play_actor_two.jpg](/dream_play_actor_two.jpg)
-
-![dream_play_actor_three.jpg](/dream_play_actor_three.jpg)
-
-![dream_play_actor_four.jpg](/dream_play_actor_four.jpg)
-
-![dream_play_actor_five.jpg](/dream_play_actor_five.jpg)
 
 
 

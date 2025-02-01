@@ -12,6 +12,13 @@ Girl
 
 ![tom_tojpg](/tom_to.jpg)
 
+![tom_tom_actor_one.jpg](/tom_to_actor_one.jpg)
+
+![tom_tom_actor_two.jpg](/tom_to_actor_two.jpg)
+
+![tom_two_actor_three.jpg](/tom_two_actor_three.jpg)
+
+![tom_tom_actor_four.jpg](/tom_to_actor_four.jpg)
 
 {{% /expand%}}
 
@@ -35,10 +42,4 @@ Girl
 
 {{% /expand%}}
 
-![tom_tom_actor_one.jpg](/tom_to_actor_one.jpg)
 
-![tom_tom_actor_two.jpg](/tom_to_actor_two.jpg)
-
-![tom_two_actor_three.jpg](/tom_two_actor_three.jpg)
-
-![tom_tom_actor_four.jpg](/tom_to_actor_four.jpg)
