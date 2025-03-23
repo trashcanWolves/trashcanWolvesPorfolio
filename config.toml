@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-email = "wolvesoftrash@gmail.com"
+email = "TKearnsTheatre@proton.me"
 favicon = "/favicon.ico"
 firstName = "Two"
 lastName = "Kearns"
@@ -34,7 +34,7 @@ trackerID = "XX-123446-01"
     
 [[params.handles]]
     name = "Bluesky"
-    link = "https://bsky.app/profile/trashcanwolves.bsky.social"
+    link = "https://bsky.app/profile/twokearns.bsky.social"
     icon = "bluesky"
 
 

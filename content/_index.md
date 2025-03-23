@@ -15,10 +15,10 @@ outputs:
 
 ## Education
 
-B. F. A. Design/Technology, University of West Florida
+B. F. A. Design/Technology, University of West Florida, In Progress
 
 B. A. S. Information System Technology, Eastern Florida State College
 
 ## Volunteering
 
-**Gender Federation / Meowster's Clowder**: December 2023-Present
+**Gender Federation / Meowster's Clowder**: December 2023-Febuary 2025

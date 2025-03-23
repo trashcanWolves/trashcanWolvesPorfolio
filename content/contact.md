@@ -1,4 +1,4 @@
 ---
-title: contact wolves!
+title: contact two!
 ---
-[Email Wolves](mailto:wolvesoftrash@gmail.com)
+[Email Wolves](mailto:TKearnsTheatre@proton.me)
