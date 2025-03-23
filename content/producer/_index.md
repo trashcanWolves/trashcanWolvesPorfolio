@@ -6,13 +6,13 @@ title: Producer
 
 [![Genderful Podcast](/genderful_podcast.png)](https://www.genderfulpodcast.com/)
 
-Worked on the latest 10 Episodes of the Podcast.
+Worked on the latest 10 Episodes of the Podcast as the podcast's audio editor
 
 Linked is just one of the episodes of Genderful I worked on as a portfolio sample.
 
 - [**Genderful** Mental Healthcare & Self Expression with Tiraj Johnson](https://www.youtube.com/watch?v=kbabY1ZpYwo)
 
-## Gender Federation 2024-Present
+## Gender Federation 2024-Present (Work as video editor)
 
 [![Gender Federation](/gender_federaton.png)](https://linktr.ee/GenderFederation)
 
