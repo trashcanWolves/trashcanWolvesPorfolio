@@ -23,9 +23,9 @@ B. A. S. Information System Technology, Eastern Florida State College August 202
 
 **Gender Federation / Meowster's Clowder**: December 2023-Febuary 2025
 
-**Math Tutoring Viera Highschool** Dates?
+**Math Tutoring Viera Highschool**
 
-**Summer Camp Counselor VBS St. Johns** Dates?
+**Summer Camp Counselor VBS St. Johns**
 
 ## Publicity Work
 
@@ -33,6 +33,6 @@ B. A. S. Information System Technology, Eastern Florida State College August 202
 
 **Campus Engagement Crew University of West Florida Theatre Student Marketing Team** August 2024-March 2024
 
-**Publicity *A Scar is Born* ** May 2022
+**Publicity A Scar is Born** May 2022
 
 **Publicity Manager of Video Materials Viera Highschool** August 2018-May 2020
