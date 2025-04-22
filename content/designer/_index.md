@@ -21,19 +21,7 @@ Design Work Implemented In Actual Production
 
 [A Dream Play](./ADreamPlay)
 
-[The Real Inspector Hound](./TheRealInspectorHound)
-
-
-Theoretical Designs
-
-[Becky Nurse of Salem](./BeckyNurseOfSalem)
-
-[Hedda Gabler](./HeddaGabbler)
-
-[Rope](./Rope)
-
-[Riders to the Sea](./RidersToTheSea)
-
+[The Real Inspector Hound](./TheRealInspectorHound)s
 
 
 
