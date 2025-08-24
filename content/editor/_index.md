@@ -2,17 +2,10 @@
 title: Editor
 ---
 
-## Genderful Podcast 2024-Present
+## TacticOrg 2025
 
-[![Genderful Podcast](/genderful_podcast.png)](https://www.genderfulpodcast.com/)
 
-Worked on the latest 10 Episodes of the Podcast as the podcast's audio editor
-
-Linked is just one of the episodes of Genderful I worked on as a portfolio sample.
-
-- [**Genderful** Mental Healthcare & Self Expression with Tiraj Johnson](https://www.youtube.com/watch?v=kbabY1ZpYwo)
-
-## Gender Federation 2024-Present (Work as video editor)
+## Gender Federation 2023-2025 (Work as video editor)
 
 [![Gender Federation](/gender_federaton.png)](https://linktr.ee/GenderFederation)
 
@@ -21,6 +14,16 @@ Linked is just one of the episodes of Genderful I worked on as a portfolio sampl
 - [**Meowster Mutual Aid** Highlight Reel](https://youtu.be/gmwZtYLCB-o?feature=shared)
 
 - [**Gender Federation** Twitch and YouTube Channel Trailer](https://youtu.be/7_qmEv1ryBs?feature=shared)
+
+## Genderful Podcast 2024
+
+[![Genderful Podcast](/genderful_podcast.png)](https://www.genderfulpodcast.com/)
+
+Worked on the latest 10 Episodes of the Podcast as the podcast's audio editor
+
+Linked is just one of the episodes of Genderful I worked on as a portfolio sample.
+
+- [**Genderful** Mental Healthcare & Self Expression with Tiraj Johnson](https://www.youtube.com/watch?v=kbabY1ZpYwo)
 
 
 ## Viera High Theatre Department Publicity Manager of Video Material 2018-2020
