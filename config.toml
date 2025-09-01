@@ -18,8 +18,8 @@ showContact = true
 showBoards  = false
 showCertifications = false
 showSocializations = true
-# sections = ["design","acting","video","it","directing","playwrighting"]
-# sections = ["designer","actor","editor","software developer","director","playwright"]
+# sections = ["design","acting","video","it","directing","playwrighting","classwork"]
+# sections = ["designer","actor","editor","software developer","director","playwright","classwork"]
 
 
 [params.google]
