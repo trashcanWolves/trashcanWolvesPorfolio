@@ -1,3 +1,3 @@
 ---
-title: Classwork
+title: Costume Construction and Makeup
 ---
