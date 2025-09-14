@@ -5,7 +5,7 @@ title: Designer
 
 ## Design Work Implemented In Actual Production
 
-## Sound Design Test
+## Sound Design
 
 
 [Akeelah And The Bee](./AkeelahAndTheBee)
@@ -28,13 +28,13 @@ title: Designer
 
 [Princess And The Pea](./PrincessAndThePea)
 
-##Theoretical Designs
+## Theoretical Designs
 
-##Sound Design
+## Sound Design
 
 [Hedda Gabbler](./HeddaGabbler)
 
-##Set Design
+## Set Design
 
 [Becky Nurse of Salem](./BeckyNurseOfSalem)
 
