@@ -6,5 +6,5 @@ title: Lighting Journals
 
 
 
-\[Journal Entry One](./EntryOne)
+\[Journal Entry One](./firstEntry)
 

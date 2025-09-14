@@ -1,5 +1,5 @@
 ---
-title: The Lifespan Of A Fact
+title: Entry One
 image: /img/wewillrockyou.jpg
 layout: section
 ---
