@@ -11,7 +11,11 @@ outputs:
 ---
 (All Pronouns)
 
-[Resume](/two_kearns_resume.pdf)
+[Resume Tech](/two_kearns_resume.pdf)
+
+[Resume Acting](/two_acting_resume.pdf)
+
+[Resume General](/two_general_resume.pdf)
 
 ## Education
 
@@ -23,6 +27,6 @@ B. A. S. Information System Technology, Eastern Florida State College August 202
 
 **Gender Federation / Meowster's Clowder**: December 2023-Febuary 2025
 
-**Math Tutoring Viera Highschool** August s2017-December 2019
+**Math Tutoring Viera Highschool** August 2017-December 2019
 
 **Summer Camp Counselor VBS St. Johns** Summer 2016, 2017, 2018, 2019
