@@ -1,14 +1,11 @@
 ---
-
 title: Lighting Journal Entry 1
-
 layout: section
-
 ---
 
 
 
-\## General Observations
+## General Observations
 
 
 
@@ -20,7 +17,7 @@ layout: section
 
 
 
-\## Morning Observations
+## Morning Observations
 
 
 
@@ -40,15 +37,15 @@ on the way to school feel to us.
 
 
 
-!\[morning\_stop.jpg](/morning\_stop.jpg)
+![morning_stop.jpg](/morning_stop.jpg)
 
 
 
-!\[morning\_stop\_drawing](/morning\_stop\_drawing.jpg)
+![morning_stop_drawing](/morning_stop_drawing.jpg)
 
 
 
-\## Midday Observations
+## Midday Observations
 
 
 
@@ -64,15 +61,15 @@ on the way to school feel to us.
 
 
 
-!\[miday\_stop.jpg](/miday\_stop.jpg)
+![miday_stop.jpg](/miday_stop.jpg)
 
 
 
-!\[miday\_stop\_drawing.jpg](/miday\_stop\_drawing.jpg)
+![miday_stop_drawing.jpg](/miday_stop_drawing.jpg)
 
 
 
-\## Nightime Observations
+## Nightime Observations
 
 
 
@@ -86,15 +83,15 @@ on the way to school feel to us.
 
 
 
-!\[night\_stop.jpg](/night\_stop.jpg)
+![night_stop.jpg](/night_stop.jpg)
 
 
 
-!\[night\_stop\_drawing.jpg](/night\_stop\_drawing.jpg)
+![night_stop_drawing.jpg](/night_stop_drawing.jpg)
 
 
 
-\## How the Look Might Be Achieved on Stage
+## How the Look Might Be Achieved on Stage
 
 
 
