@@ -43,6 +43,9 @@ title: Designer
 [Riders To The Sea](./RidersToTheSea)
 
 
+## Light Journals
+
+[Lighting Journal Entry One](./LightingJournalEntry1)
 
 
 
