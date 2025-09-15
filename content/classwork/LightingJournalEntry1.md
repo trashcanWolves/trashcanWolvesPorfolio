@@ -32,7 +32,9 @@ layout: section
 
 -A medium level of color was brought out from the pole of the stop sign.
 
--The stop sign at this time of day gives a very sign you see while riding on a school bus on the way to school feel to us.
+-The stop sign at this time of day gives a very sign you see while riding on a school bus 
+
+on the way to school feel to us.
 
 
 
@@ -91,4 +93,10 @@ layout: section
 !\[night\_stop\_drawing.jpg](/night\_stop\_drawing.jpg)
 
 
+
+\## How the Look Might Be Achieved on Stage
+
+
+
+-In terms of all the different experiences of the stop sign. All the changed was the overall intensity and angle of the light. With that so many different experiences of the stop sign were able to be achieved. The two day time looks with some level of light everywhere with light hitting more intensely from one particular angle. Where as with the nighttime look most of the stage is enveloped in low or even cool lighting with just a few small areas of intense white light mostly it looks like back lighting hitting said stop sign.
 
