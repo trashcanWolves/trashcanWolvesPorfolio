@@ -17,7 +17,7 @@ layout: section
 
 ![light2_constant.jpg](/light2_constant.jpg)
 
-![light2_constant_drawing.jpg](/light2_constant_drawing.jph
+![light2_constant_drawing.jpg](/light2_constant_drawing.jpg)
 
 
 
