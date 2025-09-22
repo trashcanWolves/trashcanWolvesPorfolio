@@ -19,9 +19,9 @@ outputs:
 
 ## Education
 
-B. F. A. Design/Technology, University of West Florida, In Progress August 2024-Present
+B. F. A. Design/Technology, University of West Florida (Sound Design and Technology Emphasis), In Progress August 2024-Present
 
-B. A. S. Information System Technology, Eastern Florida State College August 2020-August 2024
+B. A. S. Information System Technology (Software Development and Programming Emphasis), Eastern Florida State College August 2020-August 2024
 
 ## Volunteering
 
@@ -30,3 +30,9 @@ B. A. S. Information System Technology, Eastern Florida State College August 202
 **Math Tutoring Viera Highschool** August 2017-December 2019
 
 **Summer Camp Counselor VBS St. Johns** Summer 2016, 2017, 2018, 2019
+
+## Work Experience
+
+**Sky King Fireworks**: Summer 2025
+
+**A Scar is Born Theatre Production**: Summer 2022
