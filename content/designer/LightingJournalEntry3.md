@@ -8,7 +8,9 @@ layout: section
 
 
 
-\## Prompt
+
+
+## Prompt
 
 
 
@@ -16,51 +18,51 @@ Watch the video of Pachelbel's Canon in D embedded below. Make notes of the cond
 
 
 
-\## Reference Images
+## Reference Images
 
 
 
-!\[Lighting3\_Ref1.jpg](/Lighting3\_Ref1.jpg)
+![Lighting3_Ref1.jpg](/Lighting3_Ref1.jpg)
 
 
 
-!\[Lighting3\_Ref2.jpg](/Lighting3\_Ref2.jpg)
+![Lighting3_Ref2.jpg](/Lighting3_Ref2.jpg)
 
 
 
-!\[Lighting3\_Ref3.jpg](/Lighting3\_Ref3.jpg)
+![Lighting3_Ref3.jpg](/Lighting3_Ref3.jpg)
 
 
 
-!\[Lighting3\_Ref4.jpg](/Lighting3\_Ref4.jpg)
+![Lighting3_Ref4.jpg](/Lighting3_Ref4.jpg)
 
 
 
-\## Sketches
+## Sketches
 
 
 
-!\[Journal3\_Story1.jpg](/Journal3\_Story1.jpg)
+![Journal3_Story1.jpg](/Journal3_Story1.jpg)
 
 
 
-!\[Journal3\_Story2.jpg](/Journal3\_Story2.jpg)
+![Journal3_Story2.jpg](/Journal3_Story2.jpg)
 
 
 
-!\[Journal3\_Story3.jpg](/Journal3\_Story3.jpg)
+![Journal3_Story3.jpg](/Journal3_Story3.jpg)
 
 
 
-!\[Journal3\_Story4.jpg](/Journal3\_Story4.jpg)
+![Journal3_Story4.jpg](/Journal3_Story4.jpg)
 
 
 
-!\[Journal3\_Story5.jpg](/Journal3\_Story5.jpg)
+![Journal3_Story5.jpg](/Journal3_Story5.jpg)
 
 
 
-\## Lighting Design Concept Statement
+## Lighting Design Concept Statement
 
 
 
@@ -68,7 +70,7 @@ Pachelbel’s Canon In D is a journey through a nature wonderland for animals. W
 
 
 
-\## General Approach for Lighting Design for this Piece of Music:
+## General Approach for Lighting Design for this Piece of Music:
 
 
 
@@ -76,7 +78,7 @@ As a listened to this. This is the story that we visualized as what the music wo
 
 
 
-\## Story
+## Story
 
 
 
@@ -102,7 +104,7 @@ As a listened to this. This is the story that we visualized as what the music wo
 
 
 
-\## Lighting Cues
+## Lighting Cues
 
 
 
@@ -115,6 +117,3 @@ As a listened to this. This is the story that we visualized as what the music wo
 -Cue 4: Non orchestra part of stage bathed in a gentle green that has a top of tree gobo in it. Orchestra part of stage bathed in orange. Intensity increased of time. Cue time: 3
 
 -Cue 5: Entire stage is split into 4s. With upstage left 4th being mauve. Upstage right 4th being orange. Downstage left 4th being red. Downstage right 4th being yellow. Cue time: 5
-
-
-
