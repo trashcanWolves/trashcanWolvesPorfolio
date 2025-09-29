@@ -49,5 +49,4 @@ title: Designer
 
 [Lighting Journal Entry Two](./LightingJournalEntry2)
 
-
-
+[Lighting Journal Entry Three](./LightingJournalEntry3)
