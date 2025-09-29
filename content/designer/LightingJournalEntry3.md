@@ -10,6 +10,8 @@ layout: section
 
 \## Prompt
 
+
+
 Watch the video of Pachelbel's Canon in D embedded below. Make notes of the conductor’s and musician’s interpretation and expression of the music. Listen to the piece without watching the video. Make sketches and written notations of how you might interpret and express the music through light. What direction, color, and textures. What painting(s)/photos, memories, stories, or imagery come to mind? Upload your paintings, photos, drawings, and notations to your portfolio.
 
 
@@ -20,9 +22,15 @@ Watch the video of Pachelbel's Canon in D embedded below. Make notes of the cond
 
 !\[Lighting3\_Ref1.jpg](/Lighting3\_Ref1.jpg)
 
+
+
 !\[Lighting3\_Ref2.jpg](/Lighting3\_Ref2.jpg)
 
+
+
 !\[Lighting3\_Ref3.jpg](/Lighting3\_Ref3.jpg)
+
+
 
 !\[Lighting3\_Ref4.jpg](/Lighting3\_Ref4.jpg)
 
@@ -34,11 +42,19 @@ Watch the video of Pachelbel's Canon in D embedded below. Make notes of the cond
 
 !\[Journal3\_Story1.jpg](/Journal3\_Story1.jpg)
 
+
+
 !\[Journal3\_Story2.jpg](/Journal3\_Story2.jpg)
+
+
 
 !\[Journal3\_Story3.jpg](/Journal3\_Story3.jpg)
 
+
+
 !\[Journal3\_Story4.jpg](/Journal3\_Story4.jpg)
+
+
 
 !\[Journal3\_Story5.jpg](/Journal3\_Story5.jpg)
 
