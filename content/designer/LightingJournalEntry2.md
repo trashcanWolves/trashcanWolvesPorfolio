@@ -5,6 +5,10 @@ layout: section
 
 
 
+## Prompt
+
+Select an object indoors (building, bench, fountain, table, window, etc.) that you can observe at least three different times of day. Take photos of the object you are observing. Make sketches and written notations of the light's direction, color, and texture as it strikes the object for each observation time. Upload photos, drawings, and notations to your ePortfolio.
+
 ## General Observations
 
 -The Shadow On The Object and the shadow cast by the object was different depending on the time of day. 
