@@ -33,6 +33,10 @@ title: Designer
 
 ## Theoretical Designs
 
+## Lighting Design
+
+Page For Museum Coming Soon
+
 ## Sound Design
 
 [Hedda Gabbler](./HeddaGabbler)
