@@ -10,6 +10,7 @@ Watch the video embedded below of Ludovico Einaudi's Divenire.  Make notes of th
 ## Ref Images
 
 ![Light4Ref1.jpg](/Light4Ref1.jpg)
+
 ![Light4Ref2.jpg](/Light4Ref2.jpg)
 
 ## Sketchs
@@ -25,7 +26,7 @@ General Approach for Lighting Design for this Piece of Music:
 As a listened to this. This is the story that we visualized as what the music would look like. Like for us if this music were to be given physical form this is what this music would be. We invisioned this music as a park that had a lake and this lake happened to have a swan boat within it.
 
 
-##Story:
+## Story:
 -Moment 1 Story: There is a Swarn Boat in the Lake
 -Moment 1 Music: Substained Starting Melody of Music
 -Moment 2 Story: Shadows of Traingles Covered the Stage
@@ -39,7 +40,7 @@ As a listened to this. This is the story that we visualized as what the music wo
 -Moment 6 Story: Return to the swan boat from earlier but with a rapid fade out
 -Moment 6 Music: Return reptition of earlier part of music but with rapid ending to the music
 
-##Lighting Cues:
+## Lighting Cues:
 -Cue 1 & 2: Green Wash Upper 10% of Stage Blue Wash Bottom 90% of Stage Spotlight of Whitelight on Orchastra Cue time: 5 Seconds For Cue to Establish Wash Then 30 Seconds For Cue To Bring Up Spotlight
 -Cue 3 (Series):  Wash of Blue Light Arcoss Entire Stage But With Some Fixtures textured with triangle breakway gobo pattern. Cue Time Series of 2 Second Traingle Cues That Fade in and Out. Blue Wash Now Across Entire Stage that is established in first cue of series is static
 -Cue 4 (Series): Stage wash white floresant established in 3 second first cue. Series of 1 second pulsating color squares in various places on stage created by lighting shapped using shutters and colored with gels.
