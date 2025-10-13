@@ -7,6 +7,9 @@ title: Designer
 
 ## Sound Design
 
+[Shakesphere In The Park](./ShakesphereInThePark)
+
+[Princess And The Pea](./PrincessAndThePea)
 
 [Akeelah And The Bee](./AkeelahAndTheBee)
 
