@@ -51,4 +51,4 @@ title: Designer
 
 [Lighting Journal Entry Three](./LightingJournalEntry3)
 
-[Lighting Journal Entry Four](/LightingJournalEntry4)
+[Lighting Journal Entry Four](./LightingJournalEntry4)
