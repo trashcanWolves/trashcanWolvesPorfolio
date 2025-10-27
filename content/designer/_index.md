@@ -59,3 +59,5 @@ Page For Museum Coming Soon
 [Lighting Journal Entry Three](./LightingJournalEntry3)
 
 [Lighting Journal Entry Four](./LightingJournalEntry4)
+
+[Lighting Journal Entry Five](./LightingJournalEntry5)
