@@ -11,7 +11,7 @@ Watch the video embedded below of Copland's Appalachian Spring. Make notes of th
 
 ![Light5_ref1.jpg](/Light5_ref1.jpg)
 
-![Light5_ref2.jpeg](/Light5_ref2.jpeg)
+![Light5_ref2.jpg](/Light5_ref2.jpg)
 
 ## Sketchs
 
