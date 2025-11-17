@@ -7,11 +7,13 @@ title: Designer
 
 ## Sound Design
 
+Page for 12th Night Coming Soon
+
 [Shakesphere In The Park](./ShakesphereInThePark)
 
-[Princess And The Pea](./PrincessAndThePea)
-
 [Akeelah And The Bee](./AkeelahAndTheBee)
+
+[Princess And The Pea](./PrincessAndThePea)
 
 [From Tom To Tennessee](./FromTomToTennessee)
 
@@ -63,3 +65,5 @@ Page For Museum Coming Soon
 [Lighting Journal Entry Five](./LightingJournalEntry5)
 
 [Lighting Journal Entry Six](./LightingJournalEntry6)
+
+[Lighting Journal Entry Seven](./LightingJournalEntry7)
