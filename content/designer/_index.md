@@ -3,9 +3,11 @@ title: Designer
 ---
 
 
-## Design Work Implemented In Actual Production
+## Design Work Implemented In Actual Production:
 
 ## Sound Design
+
+Page for Ride the Cyclone Comming Soon
 
 Page for 12th Night Coming Soon
 
@@ -16,6 +18,8 @@ Page for 12th Night Coming Soon
 [Princess And The Pea](./PrincessAndThePea)
 
 [From Tom To Tennessee](./FromTomToTennessee)
+
+Page for Horse Divorce Comming Soon
 
 [The Tempest](./TheTempest)
 
@@ -33,7 +37,7 @@ Page for 12th Night Coming Soon
 
 [Princess And The Pea](./PrincessAndThePea)
 
-## Theoretical Designs
+## Theoretical Designs:
 
 ## Lighting Design
 
@@ -51,6 +55,19 @@ Page For Museum Coming Soon
 
 [Riders To The Sea](./RidersToTheSea)
 
+## Classwork:
+
+- Lighting Design
+
+- Script Analysis & Dramatic Literature
+
+- Drafting Comming Soon
+
+- Makeup Comming Soon
+
+- Costume Construction Comming Soon
+
+- Arcetecture & Decor
 
 ## Light Journals
 
