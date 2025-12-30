@@ -2,12 +2,9 @@
 title: Editor
 ---
 
-## TacticOrg 2025
-
-
 ## Gender Federation 2023-2025 (Work as video editor)
 
-[![Gender Federation](/gender_federaton.png)](https://linktr.ee/GenderFederation)
+- [Gender Federation](/gender_federaton.png)](https://linktr.ee/GenderFederation)
 
 - [**Ezra Mutual Aid** Highlight Reel](https://youtu.be/Pd_kYcpyJ7I?feature=shared)
 
