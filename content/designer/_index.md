@@ -57,17 +57,15 @@ Page For Museum Coming Soon
 
 ## Classwork:
 
-- Lighting Design
+[Lighting Design Class](./LightingDesignClass)
 
-- Script Analysis & Dramatic Literature
+[Script Analysis & Dramatic Lit] (./Script)
 
-- Drafting Comming Soon
+[Drafting](./Drafting)
 
-- Makeup Comming Soon
+[Makeup](./Makeup)
 
-- Costume Construction Comming Soon
-
-- Arcetecture & Decor
+[Costume Construction](./Costume)
 
 ## Lighting Design Class Light Journal Examples
 
