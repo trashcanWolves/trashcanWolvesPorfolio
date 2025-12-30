@@ -69,23 +69,8 @@ Page For Museum Coming Soon
 
 - Arcetecture & Decor
 
-## Light Journals
+## Lighting Design Class Light Journal Examples
 
 [Lighting Journal Entry One](./LightingJournalEntry1)
 
 [Lighting Journal Entry Two](./LightingJournalEntry2)
-
-[Lighting Journal Entry Three](./LightingJournalEntry3)
-
-[Lighting Journal Entry Four](./LightingJournalEntry4)
-
-[Lighting Journal Entry Five](./LightingJournalEntry5)
-
-[Lighting Journal Entry Six](./LightingJournalEntry6)
-
-[Lighting Journal Entry Seven](./LightingJournalEntry7)
-
-[Lighting Journal Entry Eight](./LightingJournalEntry8)
-
-[Lighting Journal Entry Nine](./LightingJournalEntry9)
-
