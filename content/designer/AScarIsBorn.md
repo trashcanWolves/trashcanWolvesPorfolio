@@ -11,6 +11,11 @@ A Scar Is Born is a journey from the sounds of a crowded audition room, to poetr
 
 ![scar_born.jpg](/scar_born.jpg)
 
+![Scar_prod1.jpg](/Scar_prod1.jpg)
+
+![Scar_prod2.jpg](/Scar_prod2.jpg)
+
+![Scar_prod3.jpg](/Scar_prod3.jpg)
 
 {{% /expand%}}
 
