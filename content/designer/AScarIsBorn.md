@@ -47,7 +47,7 @@ A Scar Is Born is a journey from the sounds of a crowded audition room, to poetr
 - **San Francisco Fringe** September of 2022 
   - Won Best of the Fringe
 
-- Tucson Fringe January of 2023 
+- **Tucson Fringe** January of 2023 
   - Won Best Solo Show
 
 - **London Vault Festival Fringe** January of 2023
