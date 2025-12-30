@@ -59,7 +59,7 @@ Page For Museum Coming Soon
 
 [Lighting Design Class](./LightingDesignClass)
 
-[Script Analysis & Dramatic Lit] (./Script)
+[Script Analysis & Dramatic Lit](./Script)
 
 [Drafting](./Drafting)
 
