@@ -4,4 +4,6 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-**Documentation From Strongest Project Example From Drafting Class**
+![Draft1.jpg](/Draft1.jpg)
+
+![Draft2.jpg](/Draft2.jpg)
