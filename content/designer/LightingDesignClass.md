@@ -4,6 +4,9 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-**Studio Project Example 1:**
+**Studio Project Weather Alert:**
 
-**Studio Project Example 2:**
+**Prompt:** Recreate Weather Using Lighting
+
+https://drive.google.com/file/d/1t8NCWKihQ_SkgLTqJI7zRd6_y1xcpKmy/view?usp=sharing
+
