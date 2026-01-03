@@ -4,6 +4,14 @@ image: /img/wewillrockyou.jpg
 layout: section
 ---
 
-**Photo of Strongest Work from Makeup Class 1**
+**Zombie Makeup**
 
-**Photo of Strongest Work from Makeup Class 2**
+![Makeup_1.jpg](./Makeup_1.jpg)
+
+**Period Makeup**
+
+![Makeup_2.jpg](./Makeup_2.jpg)
+
+**Character Makeup Theo from Pippin**
+
+![Makeup_3.jpg](./Makeup_3.jpg)
