@@ -17,3 +17,24 @@ layout: section
 ![Becky_Nuse.jpg](/Becky_Nurse.jpg)
 
 {{% /expand%}}
+
+**Script Analysis**
+https://docs.google.com/document/d/1k5aOBNKsgI0Yw1whDIdpfpMF7cC9F__h/edit?usp=sharing&ouid=103204069024948388597&rtpof=true&sd=true
+
+**Design Concept Powerpoint**
+https://docs.google.com/presentation/d/1XJVikE-TVO-3-PbRkQujVTxvo16XONzD/edit?usp=sharing&ouid=103204069024948388597&rtpof=true&sd=true
+
+**Ground Plan**
+https://drive.google.com/file/d/17PuEdjUHIGy6wKddrUKFpi5EGThN6I5H/view?usp=sharing
+
+https://drive.google.com/file/d/1F4ZqlDZPRfcf0ccrKLCiihiW9qkn3Ifq/view?usp=sharing
+
+https://drive.google.com/file/d/1q1CKi_eWuOuFE4DS3m9zkwchSihQCvqL/view?usp=sharing
+
+https://drive.google.com/file/d/1RETmL7cBedUJqbXkucNyr1b6bM_g8Rw_/view?usp=sharing
+
+https://drive.google.com/file/d/1_5_FSLrH9CkCUMQ3tpor_cWHAT2K3EU-/view?usp=sharing
+
+https://drive.google.com/file/d/1ne2g3VIqkylDTRyYdSXNUSUMhlgKS_Xu/view?usp=sharing
+
+https://drive.google.com/file/d/1fREhkGyxL-BdiXEBBaO5VwiLyTPOdmlP/view?usp=sharing
