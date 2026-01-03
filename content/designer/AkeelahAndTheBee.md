@@ -18,6 +18,14 @@ Akeelah And The Bee is a tour through the hip hop music of the 90s and early 200
 
 ![akeelah_3.jpg](.akeelah_3.jpg)
 
+![Bee_prod1.jpg](.Bee_prod1.jpg)
+
+![Bee_prod2.jpg](.Bee_prod2.jpg)
+
+![Bee_3.jpg](.Bee_prod3.jpg)
+
+![Bee_4.jpg](.Bee_prod.jpg)
+
 {{% /expand%}}
 
 {{%expand "Credits" %}}
