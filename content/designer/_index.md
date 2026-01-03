@@ -65,8 +65,6 @@ Page For Museum Coming Soon
 
 [Makeup](./Makeup)
 
-[Costume Construction](./Costume)
-
 ## Lighting Design Class Light Journal Examples
 
 [Lighting Journal Entry One](./LightingJournalEntry1)
