@@ -41,7 +41,7 @@ Page for Horse Divorce Comming Soon
 
 ## Lighting Design
 
-Page For Museum Coming Soon
+[Museum](./Museum)
 
 ## Sound Design
 
