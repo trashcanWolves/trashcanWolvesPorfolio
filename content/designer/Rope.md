@@ -54,3 +54,19 @@ question the ethics behind death and the killing of living beings.
 ![Rope.jpg](/Rope.jpg)
 
 {{% /expand%}}
+
+**Script Analysis**
+https://drive.google.com/file/d/15zSquwUzpdRFP3CrK9UPxxI8ZE7E96A6/view?usp=sharing
+
+**Design Concept Powerpoint**
+https://docs.google.com/presentation/d/1z2nKV7de8YOKzw3CdfbRFt1ryprBCKda/edit?usp=sharing&ouid=103204069024948388597&rtpof=true&sd=true
+
+**Ground Plan Documents**
+https://drive.google.com/file/d/1QyAd1KCHcMsN7kBQDXurkM77_kt45mWC/view?usp=sharing
+
+https://drive.google.com/file/d/1QrxdzEJDsvIDV3LIXHf6j6SlwwmAv1O0/view?usp=sharing
+
+https://drive.google.com/file/d/18ppvJoKWDm7u_yOrSe9uUO6GJoBYA3jP/view?usp=sharing
+
+https://drive.google.com/file/d/1aDHpOUnVTB3S42-PBHPQsqxJp0nUjCEe/view?usp=sharing
+
