@@ -24,3 +24,6 @@ While there is no theatrical speaker design as there is no set design or blockin
 | CC       | Curtain Call      | End of Show                                               |                                                                         |
 
 {{% /expand%}}
+
+**Sound Sample**
+https://drive.google.com/file/d/1n0T5bDWRWgEYIyuUyRv_1az4uX38laR3/view?usp=sharing
