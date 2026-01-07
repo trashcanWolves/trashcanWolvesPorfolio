@@ -15,7 +15,7 @@ Page for 12th Night Coming Soon, Currently Working On
 
 [Akeelah And The Bee](./AkeelahAndTheBee)
 
-[Princess And The Pea](./PrincessAndThePea)
+[Princess And The Pea](./PrincessAndThePeaS)
 
 [From Tom To Tennessee](./FromTomToTennessee)
 
@@ -35,7 +35,7 @@ Page for Horse Divorce Comming Soon
 
 ## Lighting Design
 
-[Princess And The Pea](./PrincessAndThePea)
+[Princess And The Pea](./PrincessAndThePeaL)
 
 ## Theoretical Designs:
 
