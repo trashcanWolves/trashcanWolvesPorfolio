@@ -61,6 +61,8 @@ Page for 12th Night Coming Soon, Currently Working On
 
 [Drafting](./Drafting)
 
+[Costume](./Costume)
+
 [Makeup](./Makeup)
 
 ## Lighting Design Class Light Journal Examples
