@@ -34,6 +34,8 @@ Tommy Miller
 
 **Costume**: Zoie Bethel, Selena Ambush
 
+**Properties Designer**: Grace Ferguson
+
 **Dramaturg**: Alyssa Barrack
 
 {{% /expand%}}

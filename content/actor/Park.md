@@ -1,48 +1,34 @@
 ---
-title: A Dream Play
+title: Shakesphere In The Park
 image: /img/wewillrockyou.jpg
 layout: section
 ---
 
 
 
- Billstick/Rich Fat Sick/Maid/Building Worker 2/Barrister
+ Caliban/Witch 2/Fool
 
-Eastern Florida State College Studio Theatre
+University of West Florida Ampitheatre
 
 {{%expand "Pictures" %}}
 
-![dream_play.jpg](/dream_play.jpg)
+![Park_prod1.jpg](/Park_prod1.jpg)
 
-![dream_play_actor_one.jpg](/dream_play_actor_one.jpg)
+![Park_prod2.jpg](/Park_prod2.jpg)
 
-![dream_play_actor_two.jpg](/dream_play_actor_two.jpg)
-
-![dream_play_actor_three.jpg](/dream_play_actor_three.jpg)
-
-![dream_play_actor_four.jpg](/dream_play_actor_four.jpg)
-
-![dream_play_actor_five.jpg](/dream_play_actor_five.jpg)
+![Light9_ref3.jpg](/Light9_ref3.jpg)
 
 {{% /expand%}}
 
 {{%expand "Credits" %}}
 
-**Director**: Selena Ambush
+**Director**: Kendall Falana
 
-**Technical Director**: Paul McKee
+**Lighting Designer/Technical Director**: NyLa Parker
 
-**Stage Manager and Lighting Designer**: Alexandria Baker
+**Stage Manager**: McKena Barrow
 
 **Sound Designer**: Two Kearns
-
-**Set Designe**r: Jay Bleakney
-
-**Costume Designer**: Morgan Risley
-
-**Projections**: Jay Bleakney, Selena Ambush, Alexandria Baker
-
-**Dramaturg**: Alyssa Barrack
 
 {{% /expand%}}
 

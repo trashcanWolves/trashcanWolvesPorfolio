@@ -2,13 +2,13 @@
 title: Actor
 ---
 
-Shakesphere in the Park Comming Soon
-
 [Shakesphere in the Park](./Park)
 
 [Rocky Horror Picture Show Shadow Cast](./Rocky)
 
 [Mister Paradise](./MisterParadise)
+
+[Tavern Inn](./TavenInn)
 
 [The Tempest](./TheTempest)
 
@@ -27,5 +27,3 @@ Acting Classes Taken:
 -Movement for An Actor taken under Tim Fitz Gerald UWF
 
 -Acting 1 and Acting 1.5 taken under Selena Ambush EFSC
-
-

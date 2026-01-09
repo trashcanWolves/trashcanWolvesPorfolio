@@ -30,7 +30,7 @@ layout: section
 
 **Set**: Veronica LaCroix, Lilly Hasting, Paul McKee, David Jackson, Alyssa Barrack
 
-**Properties Design**: Grace Ferguson
+**Properties Designer**: Grace Ferguson
 
 **Lighting Design**: Paul McKee, Alexdria Backer, Alyssa Barrack
 
