@@ -1,5 +1,5 @@
 ---
-title: Shakesphere In The Park
+title: Horse Divorce
 image: /img/wewillrockyou.jpg
 layout: section
 ---
@@ -20,15 +20,11 @@ University of West Florida Ampitheatre
 
 {{%expand "Credits" %}}
 
-**Director**: Kendall Falana
+**Director**: Grace Ferguson
 
-**Lighting Designer/Technical Director**: NyLa Parker
+**Sound Designer/Stage Manager**: Two Kearns
 
-**Stage Manager**: McKena Barrow
-
-**Properties Designer**: Grace Ferguson
-
-**Sound Designer**: Two Kearns
+**Lighting Designer**: Jackson
 
 {{% /expand%}}
 
