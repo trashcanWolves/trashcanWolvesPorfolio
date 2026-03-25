@@ -39,3 +39,5 @@ B. A. S. Information System Technology (Software Development and Programming Emp
 
 
 **A Scar is Born Theatre Production**: Summer 2022
+
+## Profesional Statment
