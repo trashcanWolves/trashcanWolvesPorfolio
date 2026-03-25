@@ -11,10 +11,6 @@ outputs:
 ---
 (All Pronouns)
 
-
-**Sound Design and Technology, Lighting Technology, Acting**
-
-
 [Resume Tech](/two_kearns_resume.pdf)
 
 [Resume Acting](/two_acting_resume.pdf)
