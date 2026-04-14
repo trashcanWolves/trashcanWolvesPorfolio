@@ -43,7 +43,3 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
-
-[build]
-  command = "hugo"
-  publish = "public"
