@@ -11,10 +11,6 @@ outputs:
 ---
 (All Pronouns)
 
-
-**Sound Design and Technology, Lighting Technology, Acting**
-
-
 [Resume Tech](/two_kearns_resume.pdf)
 
 [Resume Acting](/two_acting_resume.pdf)
@@ -35,11 +31,12 @@ B. A. S. Information System Technology (Software Development and Programming Emp
 
 **Summer Camp Counselor VBS St. Johns** Summer 2016, 2017, 2018, 2019
 
-## Professional Theatre Work
+## Work Experience
 
+**Sky King Fireworks**: Summer 2025
 
 **A Scar is Born Theatre Production**: Summer 2022
 
 ## Profesional Statment
 
-Test
+fix
