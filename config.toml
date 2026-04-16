@@ -53,3 +53,8 @@ tag = "tags"
   HUGO_VERSION = "0.145.0"
   HUGO_ENV = "production"
   TZ = "Europe/Paris"
+  
+  [build.environment]
+  HUGO_VERSION = "0.145.0"
+  HUGO_ENV = "production"
+  TZ = "Europe/Paris"
