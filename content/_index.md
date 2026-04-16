@@ -11,6 +11,21 @@ outputs:
 ---
 (All Pronouns)
 
+**Sound Design/Technology, Acting, Lighting Design/Technology, Directing**
+
+##About
+Two Kearns is a theatre artist from Melbourne Florida. They hold a BFA in theatre design and technology from UWF and a BAS in Information Systems Technology from EFSC. They have a passion for bringing the world of plays to life in a collaboartive artistic enviroment getting to weave the fabric of creative ideas with their fellow theatre collaborators. She have a passion for getting to explore many areas of theatre.
+They let kindness and love guide them through their theatrical work. They first got into theatre back in their freshme year of highschool falling in love with it then. Since then they continued to do theatre into college eventually finding themselves doing areas of theatre other than acting for the first time.
+With the support of those around them they continued on to persue a degree in theatre. And hope to now work professionally in the world of theatre while eventually persuing a masters degree in either theatrical sound or directing.
+
+## Headshots
+
+![headshot1.jpg](/headshot1.jpg)
+![headshot2.jpg](/headshot2.jpg)
+
+
+## Resumes
+
 [Resume Tech](/two_kearns_resume.pdf)
 
 [Resume Acting](/two_acting_resume.pdf)
@@ -19,24 +34,15 @@ outputs:
 
 ## Education
 
-B. F. A. Design/Technology, University of West Florida (Sound Design and Technology Emphasis), In Progress August 2024-Present
+B. F. A. Design/Technology, University of West Florida (Sound Design and Technology Emphasis), August 2024-May 2026
 
 B. A. S. Information System Technology (Software Development and Programming Emphasis), Eastern Florida State College August 2020-August 2024
 
-## Volunteering
+## Skills & Tools
 
-**Gender Federation / Meowster's Clowder**: December 2023-Febuary 2025
-
-**Math Tutoring Viera Highschool** August 2017-December 2019
-
-**Summer Camp Counselor VBS St. Johns** Summer 2016, 2017, 2018, 2019
-
-## Work Experience
-
-**Sky King Fireworks**: Summer 2025
-
-**A Scar is Born Theatre Production**: Summer 2022
-
-## Profesional Statment
-
-fix
+-Software Proficiencys: QLab, Multiplay, Vectorworks, AutoCad, Audicity, Adobe Premiere, DaVinchi Resolve, Krita, Photoshop, Microsoft Suit, GitHub/Git, Oracle SQL, Programming (Java, C++, HTML/CSS/Javascript)
+-Equipment Experience:
+	Sound Boards: X32, Mackie
+	Microphones: Shures, Sennheiser
+	Light Boards: ETC
+-Technical Skills: Live mixing, Hanging/focusing lighting fixtures, reading/executing light plot, drafting, some experience in carpentry/scenic painting, some experience in sewing/makeup, working with childrens
