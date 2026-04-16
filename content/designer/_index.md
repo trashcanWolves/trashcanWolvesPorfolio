@@ -47,6 +47,10 @@ Page for 12th Night Coming Soon, Currently Working On
 
 ## Set Design
 
+Midsummer Night Dream Comming Soon
+Merchant of Venice Comming Soon
+Tempest Comming Soon
+
 [Becky Nurse of Salem](./BeckyNurseOfSalem)
 
 [Rope](./Rope)
@@ -54,6 +58,8 @@ Page for 12th Night Coming Soon, Currently Working On
 [Riders To The Sea](./RidersToTheSea)
 
 ## Classwork:
+
+[Acting For the Camera](./ActingForCamera)
 
 [Lighting Design Class](./LightingDesignClass)
 
