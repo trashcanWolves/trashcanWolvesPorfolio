@@ -13,16 +13,10 @@ outputs:
 
 **Sound Design/Technology, Acting, Lighting Design/Technology, Directing**
 
-##About
+## About
 Two Kearns is a theatre artist from Melbourne Florida. They hold a BFA in theatre design and technology from UWF and a BAS in Information Systems Technology from EFSC. They have a passion for bringing the world of plays to life in a collaboartive artistic enviroment getting to weave the fabric of creative ideas with their fellow theatre collaborators. She have a passion for getting to explore many areas of theatre.
 They let kindness and love guide them through their theatrical work. They first got into theatre back in their freshme year of highschool falling in love with it then. Since then they continued to do theatre into college eventually finding themselves doing areas of theatre other than acting for the first time.
 With the support of those around them they continued on to persue a degree in theatre. And hope to now work professionally in the world of theatre while eventually persuing a masters degree in either theatrical sound or directing.
-
-## Headshots
-
-![headshot1.jpg](/headshot1.jpg)
-![headshot2.jpg](/headshot2.jpg)
-
 
 ## Resumes
 
@@ -46,3 +40,8 @@ B. A. S. Information System Technology (Software Development and Programming Emp
 	Microphones: Shures, Sennheiser
 	Light Boards: ETC
 -Technical Skills: Live mixing, Hanging/focusing lighting fixtures, reading/executing light plot, drafting, some experience in carpentry/scenic painting, some experience in sewing/makeup, working with childrens
+
+## Headshots
+
+![headshot1.jpg](/headshot1.jpg)
+![headshot2.jpg](/headshot2.jpg)
