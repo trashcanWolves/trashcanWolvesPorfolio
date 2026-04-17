@@ -7,9 +7,9 @@ title: Designer
 
 ## Sound Design
 
-Page for Ride the Cyclone Comming Soon, Currently Working On
+[Ride the Cyclone](./RideTheCyclone)
 
-Page for 12th Night Coming Soon, Currently Working On
+[12th Night](./12thNight)
 
 [Shakesphere In The Park](./Park)
 
