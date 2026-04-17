@@ -1,5 +1,5 @@
 ---
-title: A Dream Play 
+title: Ride the Cyclone
 image: /img/wewillrockyou.jpg
 layout: section
 ---
